@@ -1,15 +1,798 @@
 [
-    {
-        "word": "Apple",
-        "definition": "A type of fruit",
-        "options": ["Apple", "Banana", "Orange", "Grape"]
-    },
-    {
-        "word": "Book",
-        "definition": "A written work published in printed pages"
-    },
-    {
-        "word": "Car",
-        "definition": "A four-wheeled motor vehicle"
-    }
+  {
+    "word": "Platyhelminthes",
+    "definition": "Sán lá và sán dây thuộc ngành nào trong động vật học?",
+    "options": ["Nematoda", "Platyhelminthes", "Arthropoda", "Annelida"]
+  },
+  {
+    "word": "Trematoda",
+    "definition": "Lớp nào bao gồm các loài sán lá ký sinh?",
+    "options": ["Cestoda", "Trematoda", "Monogenea", "Turbellaria"]
+  },
+  {
+    "word": "Cestoda",
+    "definition": "Lớp nào bao gồm các loài sán dây ký sinh?",
+    "options": ["Trematoda", "Cestoda", "Monogenea", "Turbellaria"]
+  },
+  {
+    "word": "Thân dẹt, không chia đốt",
+    "definition": "Đặc điểm hình thể chung của sán lá trưởng thành là gì?",
+    "options": ["Thân tròn, chia đốt", "Thân dẹt, không chia đốt", "Thân cứng, có đốt", "Thân mềm, phân nhánh"]
+  },
+  {
+    "word": "Dài, phân thành nhiều đốt",
+    "definition": "Đặc điểm hình thể chung của sán dây trưởng thành là gì?",
+    "options": ["Ngắn, không chia đốt", "Dài, phân thành nhiều đốt", "Thân tròn, không đốt", "Thân dẹt, không phân đốt"]
+  },
+  {
+    "word": "Màu đỏ nhạt",
+    "definition": "Sán lá trưởng thành có màu sắc đặc trưng nào?",
+    "options": ["Màu trắng ngà", "Màu đỏ nhạt", "Màu đen", "Màu vàng nâu"]
+  },
+  {
+    "word": "Màu trắng ngà",
+    "definition": "Sán dây trưởng thành có màu sắc đặc trưng nào?",
+    "options": ["Màu đỏ nhạt", "Màu trắng ngà", "Màu xanh lá", "Màu nâu đậm"]
+  },
+  {
+    "word": "Hình bầu dục, có nắp",
+    "definition": "Trứng của sán lá có hình dạng và đặc điểm gì?",
+    "options": ["Hình tròn, có móc", "Hình bầu dục, có nắp", "Hình trụ, có gai", "Hình vuông, không nắp"]
+  },
+  {
+    "word": "Hình tròn, có 4 móc",
+    "definition": "Trứng của sán dây có hình dạng và đặc điểm gì?",
+    "options": ["Hình bầu dục, có nắp", "Hình tròn, có 4 móc", "Hình trụ, có gai", "Hình vuông, không móc"]
+  },
+  {
+    "word": "4-12 m",
+    "definition": "Tổng chiều dài của sán dây trưởng thành là bao nhiêu?",
+    "options": ["1-2 m", "2-4 m", "4-12 m", "12-20 m"]
+  },
+  {
+    "word": "10-12 mm",
+    "definition": "Kích thước đốt sán của sán dây heo (Taenia solium) là bao nhiêu?",
+    "options": ["5-8 mm", "10-12 mm", "15-20 mm", "20-30 mm"]
+  },
+  {
+    "word": "20-30 mm",
+    "definition": "Kích thước đốt sán của sán dây bò (Taenia saginata) là bao nhiêu?",
+    "options": ["10-12 mm", "15-18 mm", "20-30 mm", "30-40 mm"]
+  },
+  {
+    "word": "2 đĩa hút",
+    "definition": "Bộ phận đầu của sán lá có cấu trúc nào để bám vào ký chủ?",
+    "options": ["4 móc", "2 đĩa hút", "1 vòi chích", "3 gai nhọn"]
+  },
+  {
+    "word": "Ruột non",
+    "definition": "Sán dây trưởng thành thường ký sinh ở đâu trong cơ thể người?",
+    "options": ["Gan", "Phổi", "Ruột non", "Máu"]
+  },
+  {
+    "word": "Tùy vị trí",
+    "definition": "Ấu trùng sán dây ký sinh ở đâu trong cơ thể người hoặc động vật?",
+    "options": ["Chỉ ở ruột", "Chỉ ở gan", "Tùy vị trí", "Chỉ ở máu"]
+  },
+  {
+    "word": "Lưỡng giới",
+    "definition": "Sán lá có đặc điểm gì về giới tính?",
+    "options": ["Đơn giới", "Lưỡng giới", "Không giới", "Phân giới"]
+  },
+  {
+    "word": "Lưỡng giới",
+    "definition": "Sán dây có đặc điểm gì về giới tính?",
+    "options": ["Đơn giới", "Lưỡng giới", "Không giới", "Phân giới"]
+  },
+  {
+    "word": "Đa phôi",
+    "definition": "Hình thức sinh sản của sán lá là gì?",
+    "options": ["Đơn phôi", "Đa phôi", "Vô phôi", "Phân phôi"]
+  },
+  {
+    "word": "Không có hậu môn",
+    "definition": "Hệ tiêu hóa của sán lá có đặc điểm gì?",
+    "options": ["Có hậu môn", "Không có hậu môn", "Có 2 hậu môn", "Hệ tiêu hóa khép kín"]
+  },
+  {
+    "word": "Không có ống tiêu hóa",
+    "definition": "Hệ tiêu hóa của sán dây có đặc điểm gì?",
+    "options": ["Có ống tiêu hóa", "Không có ống tiêu hóa", "Có 2 ống tiêu hóa", "Hệ tiêu hóa khép kín"]
+  },
+  {
+    "word": "Hút qua bề mặt cơ thể",
+    "definition": "Sán dây hấp thụ dinh dưỡng bằng cách nào?",
+    "options": ["Nuốt qua miệng", "Hút qua bề mặt cơ thể", "Tiêu hóa qua ruột", "Hút qua vòi"]
+  },
+  {
+    "word": "2 ký chủ",
+    "definition": "Chu kỳ phát triển của sán lá thường cần bao nhiêu ký chủ?",
+    "options": ["1 ký chủ", "2 ký chủ", "3 ký chủ", "4 ký chủ"]
+  },
+  {
+    "word": "2 ký chủ",
+    "definition": "Chu kỳ phát triển của sán dây thường cần bao nhiêu ký chủ?",
+    "options": ["1 ký chủ", "2 ký chủ", "3 ký chủ", "4 ký chủ"]
+  },
+  {
+    "word": "Clonorchis sinensis",
+    "definition": "Loài sán lá nào ký sinh ở gan người và động vật?",
+    "options": ["Paragonimus westermani", "Fasciolopsis buski", "Clonorchis sinensis", "Taenia solium"]
+  },
+  {
+    "word": "1-2 x 0,2-0,4 cm",
+    "definition": "Kích thước của sán lá gan nhỏ (Clonorchis sinensis) là bao nhiêu?",
+    "options": ["0,8-1,6 cm", "1-2 x 0,2-0,4 cm", "3-7 cm", "3 cm"]
+  },
+  {
+    "word": "Paragonimus westermani",
+    "definition": "Loài sán lá nào ký sinh chủ yếu ở phổi người và động vật?",
+    "options": ["Clonorchis sinensis", "Paragonimus westermani", "Fasciolopsis buski", "Fasciola hepatica"]
+  },
+  {
+    "word": "0,8-1,6 x 4-8 mm",
+    "definition": "Kích thước của sán lá phổi (Paragonimus westermani) là bao nhiêu?",
+    "options": ["1-2 cm", "0,8-1,6 x 4-8 mm", "3-7 cm", "3 cm"]
+  },
+  {
+    "word": "Fasciolopsis buski",
+    "definition": "Loài sán lá nào ký sinh ở ruột người và heo?",
+    "options": ["Clonorchis sinensis", "Paragonimus westermani", "Fasciolopsis buski", "Fasciola hepatica"]
+  },
+  {
+    "word": "3-7 x 1,5-1,7 cm",
+    "definition": "Kích thước của sán lá ruột (Fasciolopsis buski) là bao nhiêu?",
+    "options": ["0,8-1,6 cm", "1-2 cm", "3-7 x 1,5-1,7 cm", "3 cm"]
+  },
+  {
+    "word": "Fasciola hepatica",
+    "definition": "Loài sán lá nào ký sinh ở gan gia súc và đôi khi ở người?",
+    "options": ["Fasciolopsis buski", "Paragonimus westermani", "Fasciola hepatica", "Clonorchis sinensis"]
+  },
+  {
+    "word": "3 cm",
+    "definition": "Kích thước của sán lá gan lớn (Fasciola hepatica) là bao nhiêu?",
+    "options": ["1-2 cm", "0,8-1,6 cm", "3-7 cm", "3 cm"]
+  },
+  {
+    "word": "Đĩa hút miệng",
+    "definition": "Cấu trúc nào ở sán lá giúp tiêu hóa thức ăn?",
+    "options": ["Đĩa hút bụng", "Đĩa hút miệng", "Ống tiêu hóa", "Túi tinh"]
+  },
+  {
+    "word": "Đĩa hút bụng",
+    "definition": "Cấu trúc nào ở sán lá giúp bám vào cơ quan ký chủ?",
+    "options": ["Đĩa hút miệng", "Đĩa hút bụng", "Ống dẫn tinh", "Túi cung"]
+  },
+  {
+    "word": "Buồng trứng",
+    "definition": "Cơ quan sinh dục cái chính của sán lá là gì?",
+    "options": ["Túi tinh", "Buồng trứng", "Ống dẫn tinh", "Tinh hoàn"]
+  },
+  {
+    "word": "Tinh hoàn",
+    "definition": "Cơ quan sinh dục đực chính của sán lá là gì?",
+    "options": ["Buồng trứng", "Tinh hoàn", "Túi cung", "Túi cirrus"]
+  },
+  {
+    "word": "Không có hệ thần kinh",
+    "definition": "Hệ thần kinh của sán dây có đặc điểm gì?",
+    "options": ["Hệ thần kinh phát triển", "Không có hệ thần kinh", "Hệ thần kinh đơn giản", "Hệ thần kinh phân nhánh"]
+  },
+  {
+    "word": "Hệ bài tiết nguyên thận",
+    "definition": "Hệ bài tiết của sán lá thuộc loại nào?",
+    "options": ["Hệ bài tiết ống", "Hệ bài tiết nguyên thận", "Hệ bài tiết vôi", "Không có hệ bài tiết"]
+  },
+  {
+    "word": "Cá nước ngọt",
+    "definition": "Ký chủ trung gian của sán lá gan nhỏ (Clonorchis sinensis) là gì?",
+    "options": ["Ốc nước ngọt", "Cá nước ngọt", "Cua nước ngọt", "Thực vật thủy sinh"]
+  },
+  {
+    "word": "Trùng lông",
+    "definition": "Giai đoạn nào trong chu trình phát triển của sán lá gan nhỏ thoát ra từ ốc?",
+    "options": ["Trùng đuôi", "Trùng lông", "Nang trùng", "Ấu trùng"]
+  },
+  {
+    "word": "21-30 ngày",
+    "definition": "Thời gian để trùng lông của sán lá gan nhỏ phát triển thành trùng đuôi là bao lâu?",
+    "options": ["7-10 ngày", "10-15 ngày", "21-30 ngày", "30-40 ngày"]
+  },
+  {
+    "word": "Ăn cá chưa nấu chín",
+    "definition": "Con đường lây nhiễm sán lá gan nhỏ (Clonorchis sinensis) ở người là gì?",
+    "options": ["Ăn rau sống", "Ăn cá chưa nấu chín", "Uống nước ô nhiễm", "Tiếp xúc da"]
+  },
+  {
+    "word": "Đau bụng, tiêu chảy",
+    "definition": "Triệu chứng chính khi nhiễm trên 100 con sán lá gan nhỏ là gì?",
+    "options": ["Ho, sốt", "Đau bụng, tiêu chảy", "Ngứa da", "Động kinh"]
+  },
+  {
+    "word": "Xơ hóa gan",
+    "definition": "Biến chứng lâu dài của nhiễm sán lá gan nhỏ là gì?",
+    "options": ["Suy thận", "Xơ hóa gan", "Lao phổi", "Viêm ruột"]
+  },
+  {
+    "word": "Xét nghiệm phân",
+    "definition": "Phương pháp chẩn đoán chính cho sán lá gan nhỏ là gì?",
+    "options": ["Xét nghiệm máu", "Xét nghiệm phân", "Chụp X-quang", "Sinh thiết gan"]
+  },
+  {
+    "word": "Praziquantel",
+    "definition": "Thuốc chính dùng để điều trị sán lá gan nhỏ là gì?",
+    "options": ["Albendazol", "Praziquantel", "Mebendazol", "Ivermectin"]
+  },
+  {
+    "word": "Châu Á",
+    "definition": "Sán lá gan nhỏ (Clonorchis sinensis) phân bố chủ yếu ở khu vực nào?",
+    "options": ["Châu Âu", "Châu Á", "Châu Phi", "Châu Mỹ"]
+  },
+  {
+    "word": "Nam Định",
+    "definition": "Ở Việt Nam, sán lá gan nhỏ phân bố chủ yếu ở tỉnh nào?",
+    "options": ["Phú Yên", "Nam Định", "Bình Định", "Lào Cai"]
+  },
+  {
+    "word": "Opisthorchis viverrini",
+    "definition": "Loài sán lá nào phân bố chủ yếu ở miền Trung Việt Nam?",
+    "options": ["Clonorchis sinensis", "Opisthorchis viverrini", "Fasciola hepatica", "Paragonimus westermani"]
+  },
+  {
+    "word": "Thực vật thủy sinh",
+    "definition": "Ký chủ trung gian của sán lá gan lớn (Fasciola hepatica) là gì?",
+    "options": ["Cá nước ngọt", "Thực vật thủy sinh", "Cua nước ngọt", "Ốc nước ngọt"]
+  },
+  {
+    "word": "Ốc nước ngọt",
+    "definition": "Ký chủ trung gian thứ nhất của sán lá gan lớn là gì?",
+    "options": ["Cá nước ngọt", "Thực vật thủy sinh", "Ốc nước ngọt", "Cua nước ngọt"]
+  },
+  {
+    "word": "Ăn rau sống",
+    "definition": "Con đường lây nhiễm sán lá gan lớn ở người là gì?",
+    "options": ["Ăn cá chưa nấu chín", "Ăn rau sống", "Uống nước ô nhiễm", "Tiếp xúc da"]
+  },
+  {
+    "word": "Thực vật thủy sinh",
+    "definition": "Ký chủ trung gian của sán lá ruột (Fasciolopsis buski) là gì?",
+    "options": ["Cá nước ngọt", "Thực vật thủy sinh", "Cua nước ngọt", "Ốc nước ngọt"]
+  },
+  {
+    "word": "Đau bụng, tiêu chảy",
+    "definition": "Triệu chứng chính khi nhiễm nhiều sán lá ruột là gì?",
+    "options": ["Ho, sốt", "Đau bụng, tiêu chảy", "Ngứa da", "Động kinh"]
+  },
+  {
+    "word": "Phù nề, suy kiệt",
+    "definition": "Triệu chứng khi nhiễm 1000 con sán lá ruột là gì?",
+    "options": ["Ho, sốt", "Phù nề, suy kiệt", "Ngứa da", "Động kinh"]
+  },
+  {
+    "word": "Xét nghiệm phân",
+    "definition": "Phương pháp chẩn đoán chính cho sán lá ruột là gì?",
+    "options": ["Xét nghiệm máu", "Xét nghiệm phân", "Chụp X-quang", "Sinh thiết ruột"]
+  },
+  {
+    "word": "Praziquantel",
+    "definition": "Thuốc chính dùng để điều trị sán lá ruột là gì?",
+    "options": ["Albendazol", "Praziquantel", "Mebendazol", "Ivermectin"]
+  },
+  {
+    "word": "Đông Á",
+    "definition": "Sán lá ruột (Fasciolopsis buski) phân bố chủ yếu ở khu vực nào?",
+    "options": ["Châu Âu", "Đông Á", "Châu Phi", "Châu Mỹ"]
+  },
+  {
+    "word": "80%",
+    "definition": "Tỷ lệ nhiễm sán lá ruột ở heo tại Việt Nam là bao nhiêu?",
+    "options": ["50%", "60%", "80%", "90%"]
+  },
+  {
+    "word": "Cua, tôm nước ngọt",
+    "definition": "Ký chủ trung gian của sán lá phổi (Paragonimus westermani) là gì?",
+    "options": ["Cá nước ngọt", "Thực vật thủy sinh", "Cua, tôm nước ngọt", "Ốc nước ngọt"]
+  },
+  {
+    "word": "Ho, khạc đờm màu rỉ sắt",
+    "definition": "Triệu chứng lâm sàng chính của nhiễm sán lá phổi là gì?",
+    "options": ["Đau bụng, tiêu chảy", "Ho, khạc đờm màu rỉ sắt", "Ngứa da", "Động kinh"]
+  },
+  {
+    "word": "Xơ hóa phổi",
+    "definition": "Biến chứng lâu dài của nhiễm sán lá phổi là gì?",
+    "options": ["Suy thận", "Xơ hóa phổi", "Xơ hóa gan", "Viêm ruột"]
+  },
+  {
+    "word": "Xét nghiệm đờm",
+    "definition": "Phương pháp chẩn đoán chính cho sán lá phổi là gì?",
+    "options": ["Xét nghiệm máu", "Xét nghiệm đờm", "Chụp CT", "Sinh thiết phổi"]
+  },
+  {
+    "word": "Praziquantel",
+    "definition": "Thuốc chính dùng để điều trị sán lá phổi là gì?",
+    "options": ["Albendazol", "Praziquantel", "Mebendazol", "Triclabendazole"]
+  },
+  {
+    "word": "Trung Quốc",
+    "definition": "Sán lá phổi phân bố chủ yếu ở quốc gia nào?",
+    "options": ["Brazil", "Trung Quốc", "Nigeria", "Ấn Độ"]
+  },
+  {
+    "word": "Lào Cai",
+    "definition": "Ở Việt Nam, sán lá phổi thường gặp ở tỉnh nào?",
+    "options": ["Nam Định", "Phú Yên", "Lào Cai", "Bình Định"]
+  },
+  {
+    "word": "Ăn cua nướng",
+    "definition": "Tập quán nào liên quan đến lây nhiễm sán lá phổi?",
+    "options": ["Ăn rau sống", "Ăn cua nướng", "Uống nước ô nhiễm", "Ăn cá sống"]
+  },
+  {
+    "word": "Taenia solium",
+    "definition": "Loài sán dây nào ký sinh ở heo và người?",
+    "options": ["Taenia saginata", "Taenia solium", "Clonorchis sinensis", "Paragonimus westermani"]
+  },
+  {
+    "word": "Taenia saginata",
+    "definition": "Loài sán dây nào ký sinh ở bò và người?",
+    "options": ["Taenia solium", "Taenia saginata", "Fasciola hepatica", "Fasciolopsis buski"]
+  },
+  {
+    "word": "2-4 m",
+    "definition": "Chiều dài của sán dây heo (Taenia solium) trưởng thành là bao nhiêu?",
+    "options": ["1-2 m", "2-4 m", "4-10 m", "10-12 m"]
+  },
+  {
+    "word": "4-10 m",
+    "definition": "Chiều dài của sán dây bò (Taenia saginata) trưởng thành là bao nhiêu?",
+    "options": ["1-2 m", "2-4 m", "4-10 m", "10-12 m"]
+  },
+  {
+    "word": "800-1000 đốt",
+    "definition": "Sán dây heo (Taenia solium) có bao nhiêu đốt?",
+    "options": ["500-700 đốt", "800-1000 đốt", "1000-1200 đốt", "1200-1500 đốt"]
+  },
+  {
+    "word": "4 đĩa hút, 2 hàng móc",
+    "definition": "Đầu của sán dây heo (Taenia solium) có cấu trúc gì?",
+    "options": ["2 đĩa hút", "4 đĩa hút, 2 hàng móc", "1 vòi chích", "3 gai nhọn"]
+  },
+  {
+    "word": "4 đĩa hút",
+    "definition": "Đầu của sán dây bò (Taenia saginata) có cấu trúc gì?",
+    "options": ["4 đĩa hút, 2 hàng móc", "4 đĩa hút", "2 đĩa hút", "1 vòi chích"]
+  },
+  {
+    "word": "Cysticercus cellulosae",
+    "definition": "Ấu trùng của sán dây heo được gọi là gì?",
+    "options": ["Cysticercus bovis", "Cysticercus cellulosae", "Nang trùng", "Trùng đuôi"]
+  },
+  {
+    "word": "Cysticercus bovis",
+    "definition": "Ấu trùng của sán dây bò được gọi là gì?",
+    "options": ["Cysticercus cellulosae", "Cysticercus bovis", "Nang trùng", "Trùng lông"]
+  },
+  {
+    "word": "Dưới lưỡi, cơ vai",
+    "definition": "Ấu trùng sán dây heo (Cysticercus cellulosae) thường gặp ở đâu trong cơ thể heo?",
+    "options": ["Bắp đùi, cơ tim", "Dưới lưỡi, cơ vai", "Gan, phổi", "Máu, ruột"]
+  },
+  {
+    "word": "Bắp đùi, cơ tim",
+    "definition": "Ấu trùng sán dây bò (Cysticercus bovis) thường gặp ở đâu trong cơ thể bò?",
+    "options": ["Dưới lưỡi, cơ vai", "Bắp đùi, cơ tim", "Gan, phổi", "Máu, ruột"]
+  },
+  {
+    "word": "4-5 đốt",
+    "definition": "Sán dây heo thải ra bao nhiêu đốt già mỗi ngày theo phân?",
+    "options": ["1-2 đốt", "4-5 đốt", "6-8 đốt", "8-10 đốt"]
+  },
+  {
+    "word": "Tự chui ra hậu môn",
+    "definition": "Đốt sán dây bò thải ra ngoài theo cách nào?",
+    "options": ["Theo phân", "Tự chui ra hậu môn", "Qua nước tiểu", "Qua đờm"]
+  },
+  {
+    "word": "8-10 tuần",
+    "definition": "Chu trình phát triển của sán dây heo (Taenia solium) kéo dài bao lâu?",
+    "options": ["4-6 tuần", "8-10 tuần", "3 tháng", "6 tháng"]
+  },
+  {
+    "word": "3 tháng",
+    "definition": "Chu trình phát triển của sán dây bò (Taenia saginata) kéo dài bao lâu?",
+    "options": ["4-6 tuần", "8-10 tuần", "3 tháng", "6 tháng"]
+  },
+  {
+    "word": "Đau bụng, buồn nôn",
+    "definition": "Triệu chứng chính của bệnh sán dây đường ruột là gì?",
+    "options": ["Ho, sốt", "Đau bụng, buồn nôn", "Ngứa da", "Động kinh"]
+  },
+  {
+    "word": "Động kinh",
+    "definition": "Triệu chứng chính khi ấu trùng sán dây ký sinh ở não là gì?",
+    "options": ["Đau bụng", "Động kinh", "Ho", "Ngứa da"]
+  },
+  {
+    "word": "Mù mắt",
+    "definition": "Biến chứng khi ấu trùng sán dây ký sinh ở mắt là gì?",
+    "options": ["Suy thận", "Mù mắt", "Xơ hóa gan", "Viêm ruột"]
+  },
+  {
+    "word": "Xét nghiệm phân",
+    "definition": "Phương pháp chẩn đoán chính cho bệnh sán dây đường ruột là gì?",
+    "options": ["Xét nghiệm máu", "Xét nghiệm phân", "Chụp X-quang", "Sinh thiết ruột"]
+  },
+  {
+    "word": "Sinh thiết",
+    "definition": "Phương pháp chẩn đoán chính cho bệnh ấu trùng sán dây là gì?",
+    "options": ["Xét nghiệm phân", "Sinh thiết", "Chụp X-quang", "Xét nghiệm máu"]
+  },
+  {
+    "word": "Praziquantel",
+    "definition": "Thuốc chính dùng để điều trị sán dây trưởng thành là gì?",
+    "options": ["Albendazol", "Praziquantel", "Mebendazol", "Ivermectin"]
+  },
+  {
+    "word": "1 tháng",
+    "definition": "Trứng sán dây mất khả năng sống sau bao lâu ở môi trường bên ngoài?",
+    "options": ["1 tuần", "1 tháng", "3 tháng", "6 tháng"]
+  },
+  {
+    "word": "50-60 độ C",
+    "definition": "Nhiệt độ nào có thể tiêu diệt ấu trùng sán dây heo sau 1 giờ?",
+    "options": ["30-40 độ C", "40-50 độ C", "50-60 độ C", "60-70 độ C"]
+  },
+  {
+    "word": "Ăn thịt heo sống",
+    "definition": "Con đường lây nhiễm sán dây heo ở người là gì?",
+    "options": ["Ăn rau sống", "Ăn thịt heo sống", "Uống nước ô nhiễm", "Tiếp xúc da"]
+  },
+  {
+    "word": "Ăn thịt bò sống",
+    "definition": "Con đường lây nhiễm sán dây bò ở người là gì?",
+    "options": ["Ăn rau sống", "Ăn thịt bò sống", "Uống nước ô nhiễm", "Tiếp xúc da"]
+  },
+  {
+    "word": "3-6 năm",
+    "definition": "Tuổi thọ của ấu trùng sán dây ở não là bao lâu?",
+    "options": ["1-2 năm", "3-6 năm", "6-10 năm", "10-20 năm"]
+  },
+  {
+    "word": "20 năm",
+    "definition": "Tuổi thọ của ấu trùng sán dây ở mắt là bao lâu?",
+    "options": ["1-2 năm", "3-6 năm", "10-15 năm", "20 năm"]
+  },
+  {
+    "word": "Hóa vôi",
+    "definition": "Hạt gạo (ấu trùng sán dây) trong cơ và da lâu ngày sẽ bị gì?",
+    "options": ["Hóa vôi", "Hóa sẹo", "Hóa mủ", "Hóa nang"]
+  },
+  {
+    "word": "Praziquantel 600 mg",
+    "definition": "Liều dùng trung bình để điều trị sán dây trưởng thành là gì?",
+    "options": ["Praziquantel 300 mg", "Praziquantel 600 mg", "Praziquantel 900 mg", "Praziquantel 1200 mg"]
+  },
+  {
+    "word": "5 mg/kg/ngày",
+    "definition": "Liều dùng Praziquantel để điều trị ấu trùng sán dây là gì?",
+    "options": ["5 mg/kg/ngày", "10 mg/kg/ngày", "15 mg/kg/ngày", "20 mg/kg/ngày"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào có thể sống từ 6-16 năm trong cơ thể người?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây heo"]
+  },
+  {
+    "word": "Sán lá ruột",
+    "definition": "Loài sán nào gây chậm phát triển ở trẻ em khi nhiễm nặng?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
+  },
+  {
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào gây bệnh gạo ở cơ và da?",
+    "options": ["Sán lá gan lớn", "Sán lá ruột", "Sán dây heo", "Sán lá phổi"]
+  },
+  {
+    "word": "Sán lá gan nhỏ",
+    "definition": "Loài sán nào không gây phản ứng dữ dội ở người do là ký chủ thích hợp?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào có triệu chứng dễ nhầm với lao phổi?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây heo"]
+  },
+  {
+    "word": "Siêu âm",
+    "definition": "Phương pháp nào hỗ trợ chẩn đoán sán lá gan nhỏ khi nhiễm ít?",
+    "options": ["Xét nghiệm máu", "Siêu âm", "Chụp X-quang", "Sinh thiết gan"]
+  },
+  {
+    "word": "Triclabendazole",
+    "definition": "Thuốc nào được dùng thay thế Praziquantel để điều trị sán lá phổi?",
+    "options": ["Albendazol", "Mebendazol", "Triclabendazole", "Ivermectin"]
+  },
+  {
+    "word": "40 mg/kg",
+    "definition": "Liều dùng Praziquantel cho trẻ trên 2 tuổi điều trị sán lá ruột là gì?",
+    "options": ["20 mg/kg", "30 mg/kg", "40 mg/kg", "50 mg/kg"]
+  },
+  {
+    "word": "Hút dịch tá tràng",
+    "definition": "Phương pháp nào được dùng để tìm trứng sán lá gan nhỏ khi nhiễm ít?",
+    "options": ["Xét nghiệm phân", "Hút dịch tá tràng", "Chụp CT", "Sinh thiết gan"]
+  },
+  {
+    "word": "Xét nghiệm miễn dịch",
+    "definition": "Phương pháp nào có tính đặc hiệu cao trong chẩn đoán sán lá gan nhỏ?",
+    "options": ["Xét nghiệm phân", "Xét nghiệm miễn dịch", "Chụp X-quang", "Siêu âm"]
+  },
+  {
+    "word": "Chụp CT",
+    "definition": "Phương pháp nào hỗ trợ chẩn đoán ấu trùng sán dây ở não?",
+    "options": ["Xét nghiệm phân", "Chụp CT", "Xét nghiệm máu", "Siêu âm"]
+  },
+  {
+    "word": "Sinh thiết",
+    "definition": "Phương pháp nào xác định chính xác ấu trùng sán dây ở cơ?",
+    "options": ["Xét nghiệm phân", "Sinh thiết", "Chụp X-quang", "Siêu âm"]
+  },
+  {
+    "word": "Sán lá gan lớn",
+    "definition": "Loài sán nào ký sinh chủ yếu ở gia súc nhưng đôi khi ở người?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán lá gan lớn"]
+  },
+  {
+    "word": "Sán dây bò",
+    "definition": "Loài sán nào không có chu trình tự nhiễm?",
+    "options": ["Sán dây heo", "Sán dây bò", "Sán lá phổi", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào có chu trình tự nhiễm ở người?",
+    "options": ["Sán dây bò", "Sán dây heo", "Sán lá phổi", "Sán lá ruột"]
+  },
+  {
+    "word": "16 ngày",
+    "definition": "Thời gian phát triển của trùng đuôi sán lá phổi trong mùa hè là bao lâu?",
+    "options": ["10 ngày", "16 ngày", "30 ngày", "60 ngày"]
+  },
+  {
+    "word": "60 ngày",
+    "definition": "Thời gian phát triển của trùng đuôi sán lá phổi trong mùa đông là bao lâu?",
+    "options": ["16 ngày", "30 ngày", "60 ngày", "90 ngày"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào ký sinh ở nhiều cơ quan như da, phúc mạc, não?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
+  },
+  {
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào gây rối loạn tâm thần khi ký sinh ở não?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây heo", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán lá ruột",
+    "definition": "Loài sán nào gây bạch cầu toan tính tăng cao khi nhiễm nặng?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
+  },
+  {
+    "word": "Sán lá gan nhỏ",
+    "definition": "Loài sán nào liên quan đến tập quán ăn gỏi cá sông?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây heo"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào liên quan đến tập quán ăn cua sống?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
+  },
+  {
+    "word": "Sán lá gan lớn",
+    "definition": "Loài sán nào liên quan đến tập quán ăn rau sống?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá gan lớn", "Sán lá phổi"]
+  },
+  {
+    "word": "Sán dây bò",
+    "definition": "Loài sán nào liên quan đến tập quán ăn thịt bò tái?",
+    "options": ["Sán dây heo", "Sán dây bò", "Sán lá phổi", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào liên quan đến tập quán ăn thịt heo sống?",
+    "options": ["Sán dây bò", "Sán dây heo", "Sán lá phổi", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán lá ruột",
+    "definition": "Loài sán nào hiếm gặp ở người nhưng phổ biến ở heo tại Việt Nam?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào có tỷ lệ mang ấu trùng cao ở cua nước ngọt?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây heo"]
+  },
+  {
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào gây đau cơ khi ấu trùng ký sinh ở mô cơ?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây heo", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán lá gan nhỏ",
+    "definition": "Loài sán nào gây suy kiệt dẫn đến tử vong khi nhiễm nặng?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây bò", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào thường có 2 con đực và cái trong một nang sán?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây heo"]
+  },
+  {
+    "word": "Sán dây bò",
+    "definition": "Loài sán nào có đốt sán tự vỡ và rơi ra ngoài?",
+    "options": ["Sán dây heo", "Sán dây bò", "Sán lá phổi", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán lá gan lớn",
+    "definition": "Loài sán nào ký sinh ở ốc diếm hoặc ốc sên?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá gan lớn", "Sán lá phổi"]
+  },
+  {
+    "word": "Sán lá ruột",
+    "definition": "Loài sán nào phụ thuộc vào môi trường có thực vật thủy sinh?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây heo"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào lưu hành ở biên giới Việt-Trung?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
+  },
+  {
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào gây nốt nổi ở mô dưới da?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây heo", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán lá gan nhỏ",
+    "definition": "Loài sán nào được phát hiện tình cờ qua xét nghiệm phân?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây bò"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào cần xét nghiệm đờm ở trẻ em để chẩn đoán?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây heo"]
+  },
+  {
+    "word": "Sán dây bò",
+    "definition": "Loài sán nào ít gây nguy hiểm đến tính mạng?",
+    "options": ["Sán dây heo", "Sán dây bò", "Sán lá phổi", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán lá gan lớn",
+    "definition": "Loài sán nào thoát nang ở tá tràng sau khi người ăn phải?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá gan lớn", "Sán lá phổi"]
+  },
+  {
+    "word": "Sán lá ruột",
+    "definition": "Loài sán nào gây sụt cân và mệt mỏi khi nhiễm vài trăm con?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào gây tổn thương phổi khi có nhiều nang sán?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây heo"]
+  },
+  {
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào có ấu trùng sống lâu nhất ở mắt?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây heo", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán lá gan nhỏ",
+    "definition": "Loài sán nào liên quan đến tập quán ăn cá chép sống?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào có triệu chứng sốt và ho vào sáng sớm?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây heo"]
+  },
+  {
+    "word": "Sán dây bò",
+    "definition": "Loài sán nào có chiều dài lớn hơn sán dây heo?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây bò", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán lá gan lớn",
+    "definition": "Loài sán nào có trứng chưa phôi khi ra ngoài môi trường?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá gan lớn", "Sán lá phổi"]
+  },
+  {
+    "word": "Sán lá ruột",
+    "definition": "Loài sán nào phổ biến ở các nước Đông Á và Trung Á?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây heo"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào có trứng theo đờm ra ngoài môi trường?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây bò"]
+  },
+  {
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào có đốt sán già rụng theo phân?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây heo", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán lá gan nhỏ",
+    "definition": "Loài sán nào có thể tìm trứng bằng xét nghiệm dịch tá tràng?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây bò"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào cần chụp X-quang phổi để hỗ trợ chẩn đoán?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây heo"]
+  },
+  {
+    "word": "Sán dây bò",
+    "definition": "Loài sán nào có đầu không có hàng móc?",
+    "options": ["Sán dây heo", "Sán dây bò", "Sán lá phổi", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán lá gan lớn",
+    "definition": "Loài sán nào phát triển thành sán trưởng thành trong ruột non?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá gan lớn", "Sán lá phổi"]
+  },
+  {
+    "word": "Sán lá ruột",
+    "definition": "Loài sán nào gây thiếu máu khi nhiễm nhẹ?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào tập trung trong nang sán ở phổi?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây heo"]
+  },
+  {
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào có ấu trùng ở cơ nhai của heo?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây heo", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán lá gan nhỏ",
+    "definition": "Loài sán nào phân bố ở Bắc Ninh, Bắc Giang?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây bò"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào có nguy cơ cao ở Lai Châu?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây heo"]
+  },
+  {
+    "word": "Sán dây bò",
+    "definition": "Loài sán nào có ấu trùng ở cơ tim của bò?",
+    "options": ["Sán dây heo", "Sán dây bò", "Sán lá phổi", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán lá gan lớn",
+    "definition": "Loài sán nào có nang trùng trên thực vật thủy sinh?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá gan lớn", "Sán lá phổi"]
+  },
+  {
+    "word": "Sán lá ruột",
+    "definition": "Loài sán nào có siêu âm gan bình thường khi chẩn đoán?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào cần xét nghiệm kháng thể trong huyết thanh?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây heo"]
+  },
+  {
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào có ấu trùng ở gan và phổi?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây heo", "Sán lá ruột"]
+  }
 ]
+
