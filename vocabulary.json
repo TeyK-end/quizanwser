@@ -1,0 +1,15 @@
+[
+    {
+        "word": "Apple",
+        "definition": "A type of fruit",
+        "options": ["Apple", "Banana", "Orange", "Grape"]
+    },
+    {
+        "word": "Book",
+        "definition": "A written work published in printed pages"
+    },
+    {
+        "word": "Car",
+        "definition": "A four-wheeled motor vehicle"
+    }
+]
