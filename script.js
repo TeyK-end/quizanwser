@@ -4,8 +4,8 @@ let totalQuestions = 0;
 let correctAnswer = '';
 
 async function loadVocabulary() {
-    try {
-        const response = await fetch('vocabulary.json');
+   try {
+        const response = await fetch('vocabulary.json?_=' + new Date().getTime());
         if (!response.ok) throw new Error('Không thể tải file JSON');
         vocabulary = await response.json();
         if (!Array.isArray(vocabulary) || vocabulary.length === 0) {
@@ -13,7 +13,7 @@ async function loadVocabulary() {
         }
         loadNextQuestion();
     } catch (error) {
-        document.getElementById('result').textContent = error.message;
+      document.getElementById('result').textContent = error.message;
     }
 }
 
