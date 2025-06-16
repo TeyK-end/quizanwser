@@ -1,737 +1,797 @@
 [
   {
-    "word": "Kích thích miễn dịch đặc hiệu",
-    "definition": "Vaccin là chế phẩm làm gì với cơ thể?",
-    "options": ["Gây bệnh nhẹ", "Kích thích miễn dịch đặc hiệu", "Tiêu diệt vi khuẩn", "Tăng cường kháng thể"]
+    "word": "Platyhelminthes",
+    "definition": "Sán lá và sán dây thuộc ngành nào trong động vật học?",
+    "options": ["Nematoda", "Platyhelminthes", "Arthropoda", "Annelida"]
   },
   {
-    "word": "Sống giảm độc lực",
-    "definition": "Loại vaccin nào có khả năng tăng sinh giống nhiễm tự nhiên?",
-    "options": ["Vaccin chết", "Vaccin giải độc tố", "Sống giảm độc lực", "Vaccin tái tổ hợp"]
+    "word": "Trematoda",
+    "definition": "Lớp nào bao gồm các loài sán lá ký sinh?",
+    "options": ["Cestoda", "Trematoda", "Monogenea", "Turbellaria"]
   },
   {
-    "word": "BCG",
-    "definition": "Ví dụ nào là vaccin sống giảm độc lực?",
-    "options": ["Viêm gan B", "BCG", "Bại liệt Salk", "Uốn ván"]
+    "word": "Cestoda",
+    "definition": "Lớp nào bao gồm các loài sán dây ký sinh?",
+    "options": ["Trematoda", "Cestoda", "Monogenea", "Turbellaria"]
   },
   {
-    "word": "Vaccin chết",
-    "definition": "Loại vaccin nào an toàn hơn nhưng miễn dịch yếu hơn?",
-    "options": ["Sống giảm độc lực", "Vaccin chết", "Vaccin giải độc tố", "Vaccin tái tổ hợp"]
+    "word": "Thân dẹt, không chia đốt",
+    "definition": "Đặc điểm hình thể chung của sán lá trưởng thành là gì?",
+    "options": ["Thân tròn, chia đốt", "Thân dẹt, không chia đốt", "Thân cứng, có đốt", "Thân mềm, phân nhánh"]
   },
   {
-    "word": "Dại",
-    "definition": "Ví dụ nào là vaccin chết?",
-    "options": ["Sởi", "Rubella", "Dại", "BCG"]
+    "word": "Dài, phân thành nhiều đốt",
+    "definition": "Đặc điểm hình thể chung của sán dây trưởng thành là gì?",
+    "options": ["Ngắn, không chia đốt", "Dài, phân thành nhiều đốt", "Thân tròn, không đốt", "Thân dẹt, không phân đốt"]
   },
   {
-    "word": "Uốn ván",
-    "definition": "Vaccin giải độc tố được chế tạo từ độc tố của bệnh nào?",
-    "options": ["Sởi", "Uốn ván", "Viêm gan B", "Cúm"]
+    "word": "Màu đỏ nhạt",
+    "definition": "Sán lá trưởng thành có màu sắc đặc trưng nào?",
+    "options": ["Màu trắng ngà", "Màu đỏ nhạt", "Màu đen", "Màu vàng nâu"]
   },
   {
-    "word": "Viêm gan B",
-    "definition": "Vaccin tái tổ hợp được sản xuất bằng kỹ thuật gen cho bệnh nào?",
-    "options": ["Bạch hầu", "Viêm gan B", "Ho gà", "Lao"]
+    "word": "Màu trắng ngà",
+    "definition": "Sán dây trưởng thành có màu sắc đặc trưng nào?",
+    "options": ["Màu đỏ nhạt", "Màu trắng ngà", "Màu xanh lá", "Màu nâu đậm"]
   },
   {
-    "word": "An toàn",
-    "definition": "Tiêu chuẩn nào là quan trọng nhất của vaccin?",
-    "options": ["Giá rẻ", "An toàn", "Dễ sản xuất", "Hiệu quả ngắn hạn"]
+    "word": "Hình bầu dục, có nắp",
+    "definition": "Trứng của sán lá có hình dạng và đặc điểm gì?",
+    "options": ["Hình tròn, có móc", "Hình bầu dục, có nắp", "Hình trụ, có gai", "Hình vuông, không nắp"]
   },
   {
-    "word": "Đúng đối tượng",
-    "definition": "Nguyên tắc sử dụng vaccin bao gồm điều gì?",
-    "options": ["Dùng cho mọi người", "Đúng đối tượng", "Không cần bảo quản", "Tiêm nhiều lần cùng lúc"]
+    "word": "Hình tròn, có 4 móc",
+    "definition": "Trứng của sán dây có hình dạng và đặc điểm gì?",
+    "options": ["Hình bầu dục, có nắp", "Hình tròn, có 4 móc", "Hình trụ, có gai", "Hình vuông, không móc"]
   },
   {
-    "word": "Tiêm bắp",
-    "definition": "Phương pháp dùng vaccin bao gồm cách nào?",
-    "options": ["Hít", "Tiêm bắp", "Bôi ngoài da", "Uống qua mũi"]
+    "word": "4-12 m",
+    "definition": "Tổng chiều dài của sán dây trưởng thành là bao nhiêu?",
+    "options": ["1-2 m", "2-4 m", "4-12 m", "12-20 m"]
   },
   {
-    "word": "Sốc phản vệ",
-    "definition": "Phản ứng phụ hiếm gặp của vaccin là gì?",
-    "options": ["Sưng đỏ", "Sốt nhẹ", "Sốc phản vệ", "Đau cơ"]
+    "word": "10-12 mm",
+    "definition": "Kích thước đốt sán của sán dây heo (Taenia solium) là bao nhiêu?",
+    "options": ["5-8 mm", "10-12 mm", "15-20 mm", "20-30 mm"]
   },
   {
-    "word": "Đáp ứng miễn dịch",
-    "definition": "Đánh giá kết quả tiêm chủng dựa vào yếu tố nào?",
-    "options": ["Số lượng tiêm", "Đáp ứng miễn dịch", "Tác dụng phụ", "Giá thành"]
+    "word": "20-30 mm",
+    "definition": "Kích thước đốt sán của sán dây bò (Taenia saginata) là bao nhiêu?",
+    "options": ["10-12 mm", "15-18 mm", "20-30 mm", "30-40 mm"]
   },
   {
-    "word": "Suy giảm miễn dịch",
-    "definition": "Không nên dùng vaccin sống cho đối tượng nào?",
-    "options": ["Trẻ sơ sinh", "Người khỏe mạnh", "Suy giảm miễn dịch", "Người già"]
+    "word": "2 đĩa hút",
+    "definition": "Bộ phận đầu của sán lá có cấu trúc nào để bám vào ký chủ?",
+    "options": ["4 móc", "2 đĩa hút", "1 vòi chích", "3 gai nhọn"]
   },
   {
-    "word": "2–8°C",
-    "definition": "Nhiệt độ bảo quản vaccin là bao nhiêu?",
-    "options": ["0–2°C", "2–8°C", "8–12°C", "12–15°C"]
+    "word": "Ruột non",
+    "definition": "Sán dây trưởng thành thường ký sinh ở đâu trong cơ thể người?",
+    "options": ["Gan", "Phổi", "Ruột non", "Máu"]
   },
   {
-    "word": "Lao",
-    "definition": "Vaccin BCG phòng bệnh gì?",
-    "options": ["Sởi", "Lao", "Viêm gan B", "Bạch hầu"]
+    "word": "Tùy vị trí",
+    "definition": "Ấu trùng sán dây ký sinh ở đâu trong cơ thể người hoặc động vật?",
+    "options": ["Chỉ ở ruột", "Chỉ ở gan", "Tùy vị trí", "Chỉ ở máu"]
   },
   {
-    "word": "Huyết thanh miễn dịch",
-    "definition": "Chế phẩm chứa kháng thể có sẵn được gọi là gì?",
-    "options": ["Vaccin", "Huyết thanh miễn dịch", "Kháng sinh", "Thuốc kháng virus"]
+    "word": "Lưỡng giới",
+    "definition": "Sán lá có đặc điểm gì về giới tính?",
+    "options": ["Đơn giới", "Lưỡng giới", "Không giới", "Phân giới"]
   },
   {
-    "word": "Ngựa",
-    "definition": "Huyết thanh miễn dịch có thể được lấy từ nguồn nào?",
-    "options": ["Chó", "Ngựa", "Mèo", "Gà"]
+    "word": "Lưỡng giới",
+    "definition": "Sán dây có đặc điểm gì về giới tính?",
+    "options": ["Đơn giới", "Lưỡng giới", "Không giới", "Phân giới"]
   },
   {
-    "word": "Phản ứng phụ",
-    "definition": "Khi sử dụng huyết thanh miễn dịch, cần theo dõi điều gì?",
-    "options": ["Huyết áp", "Phản ứng phụ", "Nhịp tim", "Nhiệt độ"]
+    "word": "Đa phôi",
+    "definition": "Hình thức sinh sản của sán lá là gì?",
+    "options": ["Đơn phôi", "Đa phôi", "Vô phôi", "Phân phôi"]
   },
   {
-    "word": "Viêm cơ tim",
-    "definition": "Phản ứng phụ toàn thân của huyết thanh miễn dịch có thể là gì?",
-    "options": ["Ngứa da", "Viêm cơ tim", "Đau đầu", "Tiêu chảy"]
+    "word": "Không có hậu môn",
+    "definition": "Hệ tiêu hóa của sán lá có đặc điểm gì?",
+    "options": ["Có hậu môn", "Không có hậu môn", "Có 2 hậu môn", "Hệ tiêu hóa khép kín"]
   },
   {
-    "word": "Kháng sinh",
-    "definition": "Chất có khả năng ức chế hoặc tiêu diệt vi khuẩn được gọi là gì?",
-    "options": ["Vaccin", "Huyết thanh", "Kháng sinh", "Kháng virus"]
+    "word": "Không có ống tiêu hóa",
+    "definition": "Hệ tiêu hóa của sán dây có đặc điểm gì?",
+    "options": ["Có ống tiêu hóa", "Không có ống tiêu hóa", "Có 2 ống tiêu hóa", "Hệ tiêu hóa khép kín"]
   },
   {
-    "word": "Chất sát trùng",
-    "definition": "Chất nào dùng ngoài da và phá hủy vi khuẩn nhưng độc cho tế bào?",
-    "options": ["Kháng sinh", "Chất sát trùng", "Chất khử trùng", "Vaccin"]
+    "word": "Hút qua bề mặt cơ thể",
+    "definition": "Sán dây hấp thụ dinh dưỡng bằng cách nào?",
+    "options": ["Nuốt qua miệng", "Hút qua bề mặt cơ thể", "Tiêu hóa qua ruột", "Hút qua vòi"]
   },
   {
-    "word": "Penicillin",
-    "definition": "Kháng sinh nào thuộc nhóm β-lactam?",
-    "options": ["Tetracyclin", "Penicillin", "Erythromycin", "Ciprofloxacin"]
+    "word": "2 ký chủ",
+    "definition": "Chu kỳ phát triển của sán lá thường cần bao nhiêu ký chủ?",
+    "options": ["1 ký chủ", "2 ký chủ", "3 ký chủ", "4 ký chủ"]
   },
   {
-    "word": "Vách tế bào",
-    "definition": "Nhóm β-lactam ức chế tổng hợp cấu trúc nào của vi khuẩn?",
-    "options": ["Màng tế bào", "Vách tế bào", "Ribosom", "DNA"]
+    "word": "2 ký chủ",
+    "definition": "Chu kỳ phát triển của sán dây thường cần bao nhiêu ký chủ?",
+    "options": ["1 ký chủ", "2 ký chủ", "3 ký chủ", "4 ký chủ"]
   },
   {
-    "word": "Polymyxin",
-    "definition": "Kháng sinh nào ức chế chức năng màng vi khuẩn?",
-    "options": ["Penicillin", "Polymyxin", "Tetracyclin", "Ciprofloxacin"]
+    "word": "Clonorchis sinensis",
+    "definition": "Loài sán lá nào ký sinh ở gan người và động vật?",
+    "options": ["Paragonimus westermani", "Fasciolopsis buski", "Clonorchis sinensis", "Taenia solium"]
   },
   {
-    "word": "Tetracyclin",
-    "definition": "Kháng sinh nào ngăn cản tRNA gắn vào ribosom 30s?",
-    "options": ["Erythromycin", "Tetracyclin", "Gentamycin", "Levofloxacin"]
+    "word": "1-2 x 0,2-0,4 cm",
+    "definition": "Kích thước của sán lá gan nhỏ (Clonorchis sinensis) là bao nhiêu?",
+    "options": ["0,8-1,6 cm", "1-2 x 0,2-0,4 cm", "3-7 cm", "3 cm"]
   },
   {
-    "word": "Macrolid",
-    "definition": "Nhóm kháng sinh nào ức chế dịch chuyển ribosom 50s?",
-    "options": ["Aminoglycosid", "Macrolid", "Tetracyclin", "Quinolon"]
+    "word": "Paragonimus westermani",
+    "definition": "Loài sán lá nào ký sinh chủ yếu ở phổi người và động vật?",
+    "options": ["Clonorchis sinensis", "Paragonimus westermani", "Fasciolopsis buski", "Fasciola hepatica"]
   },
   {
-    "word": "Ciprofloxacin",
-    "definition": "Kháng sinh nào ức chế topoisomerase của vi khuẩn?",
-    "options": ["Tetracyclin", "Ciprofloxacin", "Erythromycin", "Penicillin"]
+    "word": "0,8-1,6 x 4-8 mm",
+    "definition": "Kích thước của sán lá phổi (Paragonimus westermani) là bao nhiêu?",
+    "options": ["1-2 cm", "0,8-1,6 x 4-8 mm", "3-7 cm", "3 cm"]
   },
   {
-    "word": "Sulfonamid",
-    "definition": "Kháng sinh nào ức chế chuyển hóa acid folic?",
-    "options": ["Tetracyclin", "Sulfonamid", "Macrolid", "Aminoglycosid"]
+    "word": "Fasciolopsis buski",
+    "definition": "Loài sán lá nào ký sinh ở ruột người và heo?",
+    "options": ["Clonorchis sinensis", "Paragonimus westermani", "Fasciolopsis buski", "Fasciola hepatica"]
   },
   {
-    "word": "β-lactamase",
-    "definition": "Vi khuẩn có thể tạo enzym nào để phá hủy kháng sinh?",
-    "options": ["Lipase", "β-lactamase", "Amylase", "Protease"]
+    "word": "3-7 x 1,5-1,7 cm",
+    "definition": "Kích thước của sán lá ruột (Fasciolopsis buski) là bao nhiêu?",
+    "options": ["0,8-1,6 cm", "1-2 cm", "3-7 x 1,5-1,7 cm", "3 cm"]
   },
   {
-    "word": "Plasmid",
-    "definition": "Gen kháng thuốc thường được truyền qua cấu trúc nào?",
-    "options": ["Nhiễm sắc thể", "Plasmid", "Ribosom", "Màng tế bào"]
+    "word": "Fasciola hepatica",
+    "definition": "Loài sán lá nào ký sinh ở gan gia súc và đôi khi ở người?",
+    "options": ["Fasciolopsis buski", "Paragonimus westermani", "Fasciola hepatica", "Clonorchis sinensis"]
   },
   {
-    "word": "Giao phối",
-    "definition": "Cách lan truyền gen kháng giữa các tế bào vi khuẩn bao gồm phương thức nào?",
-    "options": ["Phân bào", "Giao phối", "Phagocytosis", "Tái tổ hợp"]
+    "word": "3 cm",
+    "definition": "Kích thước của sán lá gan lớn (Fasciola hepatica) là bao nhiêu?",
+    "options": ["1-2 cm", "0,8-1,6 cm", "3-7 cm", "3 cm"]
   },
   {
-    "word": "Kháng sinh phổ hẹp",
-    "definition": "Để kiểm soát kháng thuốc, nên ưu tiên loại kháng sinh nào?",
-    "options": ["Kháng sinh phổ rộng", "Kháng sinh phổ hẹp", "Kháng sinh tổng hợp", "Kháng sinh tự nhiên"]
+    "word": "Đĩa hút miệng",
+    "definition": "Cấu trúc nào ở sán lá giúp tiêu hóa thức ăn?",
+    "options": ["Đĩa hút bụng", "Đĩa hút miệng", "Ống tiêu hóa", "Túi tinh"]
   },
   {
-    "word": "Mất cân bằng hệ vi sinh",
-    "definition": "Hậu quả của lạm dụng kháng sinh là gì?",
-    "options": ["Tăng miễn dịch", "Mất cân bằng hệ vi sinh", "Giảm sốt", "Tăng sức đề kháng"]
+    "word": "Đĩa hút bụng",
+    "definition": "Cấu trúc nào ở sán lá giúp bám vào cơ quan ký chủ?",
+    "options": ["Đĩa hút miệng", "Đĩa hút bụng", "Ống dẫn tinh", "Túi cung"]
   },
   {
-    "word": "Plasmodium",
-    "definition": "Ký sinh trùng gây sốt rét thuộc chi nào?",
-    "options": ["Entamoeba", "Plasmodium", "Cryptosporidium", "Toxoplasma"]
+    "word": "Buồng trứng",
+    "definition": "Cơ quan sinh dục cái chính của sán lá là gì?",
+    "options": ["Túi tinh", "Buồng trứng", "Ống dẫn tinh", "Tinh hoàn"]
   },
   {
-    "word": "P. falciparum",
-    "definition": "Loài Plasmodium nào gây sốt rét nặng nhất ở Việt Nam?",
-    "options": ["P. vivax", "P. malariae", "P. falciparum", "P. ovale"]
+    "word": "Tinh hoàn",
+    "definition": "Cơ quan sinh dục đực chính của sán lá là gì?",
+    "options": ["Buồng trứng", "Tinh hoàn", "Túi cung", "Túi cirrus"]
   },
   {
-    "word": "Muỗi Anopheles",
-    "definition": "Ký chủ trung gian của Plasmodium là gì?",
-    "options": ["Muỗi Aedes", "Muỗi Anopheles", "Ruồi", "Bọ chét"]
+    "word": "Không có hệ thần kinh",
+    "definition": "Hệ thần kinh của sán dây có đặc điểm gì?",
+    "options": ["Hệ thần kinh phát triển", "Không có hệ thần kinh", "Hệ thần kinh đơn giản", "Hệ thần kinh phân nhánh"]
   },
   {
-    "word": "Sinh sản vô tính",
-    "definition": "Quá trình liệt sinh trong cơ thể người của Plasmodium là gì?",
-    "options": ["Sinh sản hữu tính", "Sinh sản vô tính", "Phân bào", "Giao phối"]
+    "word": "Hệ bài tiết nguyên thận",
+    "definition": "Hệ bài tiết của sán lá thuộc loại nào?",
+    "options": ["Hệ bài tiết ống", "Hệ bài tiết nguyên thận", "Hệ bài tiết vôi", "Không có hệ bài tiết"]
   },
   {
-    "word": "48h",
-    "definition": "Chu kỳ trong hồng cầu của P. vivax là bao lâu?",
-    "options": ["24h", "48h", "72h", "36h"]
+    "word": "Cá nước ngọt",
+    "definition": "Ký chủ trung gian của sán lá gan nhỏ (Clonorchis sinensis) là gì?",
+    "options": ["Ốc nước ngọt", "Cá nước ngọt", "Cua nước ngọt", "Thực vật thủy sinh"]
   },
   {
-    "word": "Rét run",
-    "definition": "Giai đoạn đầu của cơn sốt rét thường là gì?",
-    "options": ["Sốt nóng", "Rét run", "Vã mồ hôi", "Đau cơ"]
+    "word": "Trùng lông",
+    "definition": "Giai đoạn nào trong chu trình phát triển của sán lá gan nhỏ thoát ra từ ốc?",
+    "options": ["Trùng đuôi", "Trùng lông", "Nang trùng", "Ấu trùng"]
   },
   {
-    "word": "Hàng ngày",
-    "definition": "Cơn sốt đặc trưng của P. falciparum xảy ra như thế nào?",
-    "options": ["Cách nhật", "Hàng ngày", "3 ngày 1 cơn", "Không đều"]
+    "word": "21-30 ngày",
+    "definition": "Thời gian để trùng lông của sán lá gan nhỏ phát triển thành trùng đuôi là bao lâu?",
+    "options": ["7-10 ngày", "10-15 ngày", "21-30 ngày", "30-40 ngày"]
   },
   {
-    "word": "Thể não",
-    "definition": "Sốt rét ác tính thể nào hay gặp và tử vong cao?",
-    "options": ["Thể gan", "Thể não", "Thể thận", "Thể ruột"]
+    "word": "Ăn cá chưa nấu chín",
+    "definition": "Con đường lây nhiễm sán lá gan nhỏ (Clonorchis sinensis) ở người là gì?",
+    "options": ["Ăn rau sống", "Ăn cá chưa nấu chín", "Uống nước ô nhiễm", "Tiếp xúc da"]
   },
   {
-    "word": "Nhuộm Giemsa",
-    "definition": "Phương pháp nào dùng để quan sát Plasmodium trên tiêu bản?",
-    "options": ["Nhuộm Ziehl-Neelsen", "Nhuộm Giemsa", "Nhuộm Gram", "Nhuộm acid-fast"]
+    "word": "Đau bụng, tiêu chảy",
+    "definition": "Triệu chứng chính khi nhiễm trên 100 con sán lá gan nhỏ là gì?",
+    "options": ["Ho, sốt", "Đau bụng, tiêu chảy", "Ngứa da", "Động kinh"]
   },
   {
-    "word": "Diệt muỗi",
-    "definition": "Biện pháp phòng chống sốt rét bao gồm gì?",
-    "options": ["Uống nước sôi", "Diệt muỗi", "Tiêm kháng sinh", "Ăn chín"]
+    "word": "Xơ hóa gan",
+    "definition": "Biến chứng lâu dài của nhiễm sán lá gan nhỏ là gì?",
+    "options": ["Suy thận", "Xơ hóa gan", "Lao phổi", "Viêm ruột"]
   },
   {
-    "word": "Entamoeba histolytica",
-    "definition": "Ký sinh trùng gây bệnh lỵ amip là gì?",
-    "options": ["Plasmodium", "Entamoeba histolytica", "Toxoplasma", "Cryptosporidium"]
+    "word": "Xét nghiệm phân",
+    "definition": "Phương pháp chẩn đoán chính cho sán lá gan nhỏ là gì?",
+    "options": ["Xét nghiệm máu", "Xét nghiệm phân", "Chụp X-quang", "Sinh thiết gan"]
   },
   {
-    "word": "Bào nang",
-    "definition": "Thể nào của Entamoeba histolytica gây lây nhiễm qua phân?",
-    "options": ["Thể hoạt động", "Bào nang", "Thể giao bào", "Thể phân liệt"]
+    "word": "Praziquantel",
+    "definition": "Thuốc chính dùng để điều trị sán lá gan nhỏ là gì?",
+    "options": ["Albendazol", "Praziquantel", "Mebendazol", "Ivermectin"]
   },
   {
-    "word": "Metronidazole",
-    "definition": "Thuốc nào dùng để điều trị lỵ amip?",
-    "options": ["Praziquantel", "Metronidazole", "Albendazol", "Ivermectin"]
+    "word": "Châu Á",
+    "definition": "Sán lá gan nhỏ (Clonorchis sinensis) phân bố chủ yếu ở khu vực nào?",
+    "options": ["Châu Âu", "Châu Á", "Châu Phi", "Châu Mỹ"]
   },
   {
-    "word": "Cryptosporidium",
-    "definition": "Ký sinh trùng nào gây tiêu chảy dai dẳng ở người suy giảm miễn dịch?",
-    "options": ["Entamoeba", "Cryptosporidium", "Toxoplasma", "Plasmodium"]
+    "word": "Nam Định",
+    "definition": "Ở Việt Nam, sán lá gan nhỏ phân bố chủ yếu ở tỉnh nào?",
+    "options": ["Phú Yên", "Nam Định", "Bình Định", "Lào Cai"]
   },
   {
-    "word": "Ziehl-Neelsen",
-    "definition": "Phương pháp nhuộm nào dùng để chẩn đoán Cryptosporidium?",
-    "options": ["Giemsa", "Ziehl-Neelsen", "Gram", "Acid-fast"]
+    "word": "Opisthorchis viverrini",
+    "definition": "Loài sán lá nào phân bố chủ yếu ở miền Trung Việt Nam?",
+    "options": ["Clonorchis sinensis", "Opisthorchis viverrini", "Fasciola hepatica", "Paragonimus westermani"]
   },
   {
-    "word": "Isospora belli",
-    "definition": "Ký sinh trùng nào gây tiêu chảy nặng ở bệnh nhân HIV?",
-    "options": ["Cryptosporidium", "Isospora belli", "Cyclospora", "Toxoplasma"]
+    "word": "Thực vật thủy sinh",
+    "definition": "Ký chủ trung gian của sán lá gan lớn (Fasciola hepatica) là gì?",
+    "options": ["Cá nước ngọt", "Thực vật thủy sinh", "Cua nước ngọt", "Ốc nước ngọt"]
   },
   {
-    "word": "TMP-SMX",
-    "definition": "Thuốc nào dùng để điều trị Isospora belli?",
-    "options": ["Metronidazole", "TMP-SMX", "Praziquantel", "Albendazol"]
+    "word": "Ốc nước ngọt",
+    "definition": "Ký chủ trung gian thứ nhất của sán lá gan lớn là gì?",
+    "options": ["Cá nước ngọt", "Thực vật thủy sinh", "Ốc nước ngọt", "Cua nước ngọt"]
   },
   {
-    "word": "Cyclospora cayetanensis",
-    "definition": "Ký sinh trùng nào gây tiêu chảy từng đợt qua thức ăn bẩn?",
-    "options": ["Isospora belli", "Cyclospora cayetanensis", "Entamoeba", "Plasmodium"]
+    "word": "Ăn rau sống",
+    "definition": "Con đường lây nhiễm sán lá gan lớn ở người là gì?",
+    "options": ["Ăn cá chưa nấu chín", "Ăn rau sống", "Uống nước ô nhiễm", "Tiếp xúc da"]
   },
   {
-    "word": "PCR",
-    "definition": "Phương pháp nào dùng để chẩn đoán Cyclospora cayetanensis?",
-    "options": ["Nhuộm Giemsa", "PCR", "Nhuộm Gram", "Soi phân"]
+    "word": "Thực vật thủy sinh",
+    "definition": "Ký chủ trung gian của sán lá ruột (Fasciolopsis buski) là gì?",
+    "options": ["Cá nước ngọt", "Thực vật thủy sinh", "Cua nước ngọt", "Ốc nước ngọt"]
   },
   {
-    "word": "Toxoplasma gondii",
-    "definition": "Ký sinh trùng nào có ký chủ chính là mèo?",
-    "options": ["Plasmodium", "Entamoeba", "Toxoplasma gondii", "Cryptosporidium"]
+    "word": "Đau bụng, tiêu chảy",
+    "definition": "Triệu chứng chính khi nhiễm nhiều sán lá ruột là gì?",
+    "options": ["Ho, sốt", "Đau bụng, tiêu chảy", "Ngứa da", "Động kinh"]
   },
   {
-    "word": "Ăn thịt sống",
-    "definition": "Con đường lây nhiễm Toxoplasma gondii là gì?",
-    "options": ["Uống nước bẩn", "Ăn thịt sống", "Hít không khí", "Tiếp xúc da"]
+    "word": "Phù nề, suy kiệt",
+    "definition": "Triệu chứng khi nhiễm 1000 con sán lá ruột là gì?",
+    "options": ["Ho, sốt", "Phù nề, suy kiệt", "Ngứa da", "Động kinh"]
   },
   {
-    "word": "Sarcocystis spp.",
-    "definition": "Ký sinh trùng nào lây qua ăn thịt bò sống?",
-    "options": ["Toxoplasma", "Sarcocystis spp.", "Cyclospora", "Entamoeba"]
+    "word": "Xét nghiệm phân",
+    "definition": "Phương pháp chẩn đoán chính cho sán lá ruột là gì?",
+    "options": ["Xét nghiệm máu", "Xét nghiệm phân", "Chụp X-quang", "Sinh thiết ruột"]
   },
   {
-    "word": "Naegleria fowleri",
-    "definition": "Ký sinh trùng nào gây viêm não màng não cấp tính qua nước bẩn vào mũi?",
-    "options": ["Acanthamoeba", "Naegleria fowleri", "Toxoplasma", "Plasmodium"]
+    "word": "Praziquantel",
+    "definition": "Thuốc chính dùng để điều trị sán lá ruột là gì?",
+    "options": ["Albendazol", "Praziquantel", "Mebendazol", "Ivermectin"]
   },
   {
-    "word": "Acanthamoeba",
-    "definition": "Ký sinh trùng nào gây viêm giác mạc liên quan đến kính áp tròng?",
-    "options": ["Naegleria fowleri", "Acanthamoeba", "Entamoeba", "Cryptosporidium"]
+    "word": "Đông Á",
+    "definition": "Sán lá ruột (Fasciolopsis buski) phân bố chủ yếu ở khu vực nào?",
+    "options": ["Châu Âu", "Đông Á", "Châu Phi", "Châu Mỹ"]
   },
   {
-    "word": "Muỗi Aedes",
-    "definition": "Loài muỗi nào truyền bệnh sốt xuất huyết?",
-    "options": ["Muỗi Anopheles", "Muỗi Aedes", "Muỗi Culex", "Muỗi Mansonia"]
+    "word": "80%",
+    "definition": "Tỷ lệ nhiễm sán lá ruột ở heo tại Việt Nam là bao nhiêu?",
+    "options": ["50%", "60%", "80%", "90%"]
   },
   {
-    "word": "Dịch hạch",
-    "definition": "Bọ chét truyền bệnh gì?",
-    "options": ["Sốt rét", "Dịch hạch", "Sốt xuất huyết", "Giun chỉ"]
+    "word": "Cua, tôm nước ngọt",
+    "definition": "Ký chủ trung gian của sán lá phổi (Paragonimus westermani) là gì?",
+    "options": ["Cá nước ngọt", "Thực vật thủy sinh", "Cua, tôm nước ngọt", "Ốc nước ngọt"]
   },
   {
-    "word": "Candida",
-    "definition": "Loại nấm men nào gây viêm da và nấm miệng?",
-    "options": ["Aspergillus", "Candida", "Trichophyton", "Cryptococcus"]
+    "word": "Ho, khạc đờm màu rỉ sắt",
+    "definition": "Triệu chứng lâm sàng chính của nhiễm sán lá phổi là gì?",
+    "options": ["Đau bụng, tiêu chảy", "Ho, khạc đờm màu rỉ sắt", "Ngứa da", "Động kinh"]
   },
   {
-    "word": "Nấm sợi",
-    "definition": "Loại nấm nào gây bệnh hắc lào và lang ben?",
-    "options": ["Nấm men", "Nấm sợi", "Nấm nhầy", "Nấm túi"]
+    "word": "Xơ hóa phổi",
+    "definition": "Biến chứng lâu dài của nhiễm sán lá phổi là gì?",
+    "options": ["Suy thận", "Xơ hóa phổi", "Xơ hóa gan", "Viêm ruột"]
   },
   {
-    "word": "Ketoconazole",
-    "definition": "Thuốc nào dùng để điều trị bệnh nấm?",
-    "options": ["Praziquantel", "Ketoconazole", "Metronidazole", "Albendazol"]
+    "word": "Xét nghiệm đờm",
+    "definition": "Phương pháp chẩn đoán chính cho sán lá phổi là gì?",
+    "options": ["Xét nghiệm máu", "Xét nghiệm đờm", "Chụp CT", "Sinh thiết phổi"]
   },
   {
-    "word": "Vaccin đa giá",
-    "definition": "Loại vaccin nào phòng được nhiều bệnh cùng lúc?",
-    "options": ["Vaccin đơn giá", "Vaccin đa giá", "Vaccin sống", "Vaccin chết"]
+    "word": "Praziquantel",
+    "definition": "Thuốc chính dùng để điều trị sán lá phổi là gì?",
+    "options": ["Albendazol", "Praziquantel", "Mebendazol", "Triclabendazole"]
   },
   {
-    "word": "Hiệu lực",
-    "definition": "Tiêu chuẩn nào của vaccin đảm bảo khả năng bảo vệ cơ thể?",
-    "options": ["Dễ sử dụng", "Hiệu lực", "Giá rẻ", "Dễ sản xuất"]
+    "word": "Trung Quốc",
+    "definition": "Sán lá phổi phân bố chủ yếu ở quốc gia nào?",
+    "options": ["Brazil", "Trung Quốc", "Nigeria", "Ấn Độ"]
   },
   {
-    "word": "Uống",
-    "definition": "Phương pháp dùng vaccin nào không cần tiêm?",
-    "options": ["Tiêm trong da", "Uống", "Tiêm bắp", "Tiêm dưới da"]
+    "word": "Lào Cai",
+    "definition": "Ở Việt Nam, sán lá phổi thường gặp ở tỉnh nào?",
+    "options": ["Nam Định", "Phú Yên", "Lào Cai", "Bình Định"]
   },
   {
-    "word": "Sốt cao",
-    "definition": "Chống chỉ định tiêm vaccin khi người bệnh đang bị gì?",
-    "options": ["Đau đầu", "Sốt cao", "Ngứa da", "Mệt mỏi"]
+    "word": "Ăn cua nướng",
+    "definition": "Tập quán nào liên quan đến lây nhiễm sán lá phổi?",
+    "options": ["Ăn rau sống", "Ăn cua nướng", "Uống nước ô nhiễm", "Ăn cá sống"]
   },
   {
-    "word": "Viêm gan A",
-    "definition": "Vaccin chết nào phòng bệnh viêm gan A?",
-    "options": ["Sởi", "Viêm gan B", "Viêm gan A", "Rubella"]
+    "word": "Taenia solium",
+    "definition": "Loài sán dây nào ký sinh ở heo và người?",
+    "options": ["Taenia saginata", "Taenia solium", "Clonorchis sinensis", "Paragonimus westermani"]
   },
   {
-    "word": "Hib",
-    "definition": "Vaccin chiết tách/tinh chế phòng bệnh nào?",
-    "options": ["Sởi", "Hib", "Cúm", "Bạch hầu"]
+    "word": "Taenia saginata",
+    "definition": "Loài sán dây nào ký sinh ở bò và người?",
+    "options": ["Taenia solium", "Taenia saginata", "Fasciola hepatica", "Fasciolopsis buski"]
   },
   {
-    "word": "Dịch tễ học",
-    "definition": "Đánh giá hiệu quả tiêm chủng dựa vào yếu tố nào ngoài đáp ứng miễn dịch?",
-    "options": ["Dịch tễ học", "Phản ứng phụ", "Liều lượng", "Giá thành"]
+    "word": "2-4 m",
+    "definition": "Chiều dài của sán dây heo (Taenia solium) trưởng thành là bao nhiêu?",
+    "options": ["1-2 m", "2-4 m", "4-10 m", "10-12 m"]
   },
   {
-    "word": "Đúng dung môi",
-    "definition": "Bảo quản vaccin cần đảm bảo điều gì?",
-    "options": ["Nhiệt độ cao", "Đúng dung môi", "Ánh sáng mạnh", "Thời gian ngắn"]
+    "word": "4-10 m",
+    "definition": "Chiều dài của sán dây bò (Taenia saginata) trưởng thành là bao nhiêu?",
+    "options": ["1-2 m", "2-4 m", "4-10 m", "10-12 m"]
   },
   {
-    "word": "Ho gà",
-    "definition": "Vaccin nào phòng bệnh ho gà?",
-    "options": ["Sởi", "Ho gà", "Viêm não Nhật Bản", "Cúm"]
+    "word": "800-1000 đốt",
+    "definition": "Sán dây heo (Taenia solium) có bao nhiêu đốt?",
+    "options": ["500-700 đốt", "800-1000 đốt", "1000-1200 đốt", "1200-1500 đốt"]
   },
   {
-    "word": "Miễn dịch thụ động",
-    "definition": "Huyết thanh miễn dịch cung cấp loại miễn dịch nào?",
-    "options": ["Miễn dịch chủ động", "Miễn dịch thụ động", "Miễn dịch tự nhiên", "Miễn dịch bẩm sinh"]
+    "word": "4 đĩa hút, 2 hàng móc",
+    "definition": "Đầu của sán dây heo (Taenia solium) có cấu trúc gì?",
+    "options": ["2 đĩa hút", "4 đĩa hút, 2 hàng móc", "1 vòi chích", "3 gai nhọn"]
   },
   {
-    "word": "Viêm cầu thận",
-    "definition": "Phản ứng phụ nào của huyết thanh miễn dịch liên quan đến thận?",
-    "options": ["Đau cơ", "Viêm cầu thận", "Ngứa da", "Sốt nhẹ"]
+    "word": "4 đĩa hút",
+    "definition": "Đầu của sán dây bò (Taenia saginata) có cấu trúc gì?",
+    "options": ["4 đĩa hút, 2 hàng móc", "4 đĩa hút", "2 đĩa hút", "1 vòi chích"]
   },
   {
-    "word": "Vancomycin",
-    "definition": "Kháng sinh nào ức chế tổng hợp vách tế bào ngoài nhóm β-lactam?",
-    "options": ["Tetracyclin", "Vancomycin", "Erythromycin", "Ciprofloxacin"]
+    "word": "Cysticercus cellulosae",
+    "definition": "Ấu trùng của sán dây heo được gọi là gì?",
+    "options": ["Cysticercus bovis", "Cysticercus cellulosae", "Nang trùng", "Trùng đuôi"]
   },
   {
-    "word": "Daptomycin",
-    "definition": "Kháng sinh nào thuộc nhóm lipopeptid ức chế màng tế bào?",
-    "options": ["Polymyxin", "Daptomycin", "Gentamycin", "Levofloxacin"]
+    "word": "Cysticercus bovis",
+    "definition": "Ấu trùng của sán dây bò được gọi là gì?",
+    "options": ["Cysticercus cellulosae", "Cysticercus bovis", "Nang trùng", "Trùng lông"]
   },
   {
-    "word": "Aminoglycosid",
-    "definition": "Nhóm kháng sinh nào gây sai lệch mRNA trên ribosom 30s?",
-    "options": ["Macrolid", "Aminoglycosid", "Tetracyclin", "Quinolon"]
+    "word": "Dưới lưỡi, cơ vai",
+    "definition": "Ấu trùng sán dây heo (Cysticercus cellulosae) thường gặp ở đâu trong cơ thể heo?",
+    "options": ["Bắp đùi, cơ tim", "Dưới lưỡi, cơ vai", "Gan, phổi", "Máu, ruột"]
   },
   {
-    "word": "Chloramphenicol",
-    "definition": "Kháng sinh nào ức chế gắn amino acid trên ribosom 50s?",
-    "options": ["Erythromycin", "Chloramphenicol", "Tetracyclin", "Ciprofloxacin"]
+    "word": "Bắp đùi, cơ tim",
+    "definition": "Ấu trùng sán dây bò (Cysticercus bovis) thường gặp ở đâu trong cơ thể bò?",
+    "options": ["Dưới lưỡi, cơ vai", "Bắp đùi, cơ tim", "Gan, phổi", "Máu, ruột"]
   },
   {
-    "word": "Rifamycin",
-    "definition": "Kháng sinh nào ức chế tổng hợp RNA của vi khuẩn?",
-    "options": ["Tetracyclin", "Rifamycin", "Penicillin", "Sulfonamid"]
+    "word": "4-5 đốt",
+    "definition": "Sán dây heo thải ra bao nhiêu đốt già mỗi ngày theo phân?",
+    "options": ["1-2 đốt", "4-5 đốt", "6-8 đốt", "8-10 đốt"]
   },
   {
-    "word": "Biến đổi đích",
-    "definition": "Cơ chế kháng thuốc nào liên quan đến thay đổi vị trí gắn thuốc?",
-    "options": ["Tăng bơm thuốc", "Biến đổi đích", "Tạo enzym", "Thay đổi màng"]
+    "word": "Tự chui ra hậu môn",
+    "definition": "Đốt sán dây bò thải ra ngoài theo cách nào?",
+    "options": ["Theo phân", "Tự chui ra hậu môn", "Qua nước tiểu", "Qua đờm"]
   },
   {
-    "word": "Đột biến",
-    "definition": "Nguồn gốc di truyền của kháng thuốc bao gồm gì?",
-    "options": ["Tác động môi trường", "Đột biến", "Phân bào", "Tái tổ hợp"]
+    "word": "8-10 tuần",
+    "definition": "Chu trình phát triển của sán dây heo (Taenia solium) kéo dài bao lâu?",
+    "options": ["4-6 tuần", "8-10 tuần", "3 tháng", "6 tháng"]
   },
   {
-    "word": "Đúng liều",
-    "definition": "Biện pháp kiểm soát kháng thuốc bao gồm gì?",
-    "options": ["Dùng nhiều kháng sinh", "Đúng liều", "Ngừng giữa chừng", "Tăng liều"]
+    "word": "3 tháng",
+    "definition": "Chu trình phát triển của sán dây bò (Taenia saginata) kéo dài bao lâu?",
+    "options": ["4-6 tuần", "8-10 tuần", "3 tháng", "6 tháng"]
   },
   {
-    "word": "Nhiễm độc",
-    "definition": "Lạm dụng kháng sinh có thể gây hậu quả gì?",
-    "options": ["Tăng miễn dịch", "Nhiễm độc", "Giảm sốt", "Tăng sức đề kháng"]
+    "word": "Đau bụng, buồn nôn",
+    "definition": "Triệu chứng chính của bệnh sán dây đường ruột là gì?",
+    "options": ["Ho, sốt", "Đau bụng, buồn nôn", "Ngứa da", "Động kinh"]
   },
   {
-    "word": "P. ovale",
-    "definition": "Loài Plasmodium nào hiếm gặp nhất ở Việt Nam?",
-    "options": ["P. falciparum", "P. vivax", "P. malariae", "P. ovale"]
+    "word": "Động kinh",
+    "definition": "Triệu chứng chính khi ấu trùng sán dây ký sinh ở não là gì?",
+    "options": ["Đau bụng", "Động kinh", "Ho", "Ngứa da"]
   },
   {
-    "word": "Bào tử tạo",
-    "definition": "Quá trình sinh sản hữu tính muỗi trong Anopheles gọi là gì?",
-    "options": ["Liệt tạo", "Bào tử tạo", "Phân liệt", "Giao bào"]
+    "word": "Mù mắt",
+    "definition": "Biến chứng khi ấu trùng sán dây ký sinh ở mắt là gì?",
+    "options": ["Suy thận", "Mù mắt", "Xơ hóa gan", "Viêm ruột"]
   },
   {
-    "word": "72h",
-    "definition": "Chu kỳ trong hồng cầu của P. malariae là bao lâu?",
-    "options": ["48h", "72h", "36h", "24h"]
+    "word": "Xét nghiệm phân",
+    "definition": "Phương pháp chẩn đoán chính cho bệnh sán dây đường ruột là gì?",
+    "options": ["Xét nghiệm máu", "Xét nghiệm phân", "Chụp X-quang", "Sinh thiết ruột"]
   },
   {
-    "word": "Vã mồ hôi",
-    "definition": "Giai đoạn cuối của cơn sốt rét thường là gì?",
-    "options": ["Rét run", "Sốt nóng", "Vã mồ hôi", "Đau đầu"]
+    "word": "Sinh thiết",
+    "definition": "Phương pháp chẩn đoán chính cho bệnh ấu trùng sán dây là gì?",
+    "options": ["Xét nghiệm phân", "Sinh thiết", "Chụp X-quang", "Xét nghiệm máu"]
   },
   {
-    "word": "Cách nhật",
-    "definition": "Cơn sốt đặc trưng của P. vivax xảy ra như thế nào?",
-    "options": ["Hàng ngày", "Cách nhật", "3 ngày 1 cơn", "Không đều"]
+    "word": "Praziquantel",
+    "definition": "Thuốc chính dùng để điều trị sán dây trưởng thành là gì?",
+    "options": ["Albendazol", "Praziquantel", "Mebendazol", "Ivermectin"]
   },
   {
-    "word": "Thiếu máu",
-    "definition": "Triệu chứng nào thường gặp ở trẻ em bị sốt rét?",
-    "options": ["Đau cơ", "Thiếu máu", "Ngứa da", "Tiêu chảy"]
+    "word": "1 tháng",
+    "definition": "Trứng sán dây mất khả năng sống sau bao lâu ở môi trường bên ngoài?",
+    "options": ["1 tuần", "1 tháng", "3 tháng", "6 tháng"]
   },
   {
-    "word": "Test nhanh",
-    "definition": "Phương pháp chẩn đoán sốt rét nào nhanh chóng và đơn giản?",
-    "options": ["Nhuộm Giemsa", "Test nhanh", "PCR", "Sinh thiết"]
+    "word": "50-60 độ C",
+    "definition": "Nhiệt độ nào có thể tiêu diệt ấu trùng sán dây heo sau 1 giờ?",
+    "options": ["30-40 độ C", "40-50 độ C", "50-60 độ C", "60-70 độ C"]
   },
   {
-    "word": "Ngủ mùng",
-    "definition": "Biện pháp phòng chống sốt rét cá nhân là gì?",
-    "options": ["Uống kháng sinh", "Ngủ mùng", "Ăn chín", "Tắm nước sạch"]
+    "word": "Ăn thịt heo sống",
+    "definition": "Con đường lây nhiễm sán dây heo ở người là gì?",
+    "options": ["Ăn rau sống", "Ăn thịt heo sống", "Uống nước ô nhiễm", "Tiếp xúc da"]
   },
   {
-    "word": "Thể giao bào",
-    "definition": "Điều trị sốt rét cần tiêu diệt thể nào để ngừa tái phát?",
-    "options": ["Thể tư dưỡng", "Thể phân liệt", "Thể giao bào", "Thể nang"]
+    "word": "Ăn thịt bò sống",
+    "definition": "Con đường lây nhiễm sán dây bò ở người là gì?",
+    "options": ["Ăn rau sống", "Ăn thịt bò sống", "Uống nước ô nhiễm", "Tiếp xúc da"]
   },
   {
-    "word": "Lỵ amip",
-    "definition": "Entamoeba histolytica gây bệnh gì cấp tính?",
-    "options": ["Sốt rét", "Lỵ amip", "Tiêu chảy", "Viêm gan"]
+    "word": "3-6 năm",
+    "definition": "Tuổi thọ của ấu trùng sán dây ở não là bao lâu?",
+    "options": ["1-2 năm", "3-6 năm", "6-10 năm", "10-20 năm"]
   },
   {
-    "word": "Áp xe gan",
-    "definition": "Entamoeba histolytica có thể gây biến chứng gì ngoài ruột?",
-    "options": ["Viêm phổi", "Áp xe gan", "Suy thận", "Động kinh"]
+    "word": "20 năm",
+    "definition": "Tuổi thọ của ấu trùng sán dây ở mắt là bao lâu?",
+    "options": ["1-2 năm", "3-6 năm", "10-15 năm", "20 năm"]
   },
   {
-    "word": "ELISA",
-    "definition": "Phương pháp nào dùng để chẩn đoán Entamoeba histolytica qua huyết thanh?",
-    "options": ["PCR", "ELISA", "Nhuộm Giemsa", "Soi phân"]
+    "word": "Hóa vôi",
+    "definition": "Hạt gạo (ấu trùng sán dây) trong cơ và da lâu ngày sẽ bị gì?",
+    "options": ["Hóa vôi", "Hóa sẹo", "Hóa mủ", "Hóa nang"]
   },
   {
-    "word": "Nước sạch",
-    "definition": "Biện pháp phòng ngừa Cryptosporidium là gì?",
-    "options": ["Ngủ mùng", "Nước sạch", "Tiêm vaccin", "Ăn chín"]
+    "word": "Praziquantel 600 mg",
+    "definition": "Liều dùng trung bình để điều trị sán dây trưởng thành là gì?",
+    "options": ["Praziquantel 300 mg", "Praziquantel 600 mg", "Praziquantel 900 mg", "Praziquantel 1200 mg"]
   },
   {
-    "word": "Hình bầu dục",
-    "definition": "Hình thể nang trứng của Isospora belli là gì?",
-    "options": ["Hình tròn", "Hình bầu dục", "Hình trụ", "Hình vuông"]
+    "word": "5 mg/kg/ngày",
+    "definition": "Liều dùng Praziquantel để điều trị ấu trùng sán dây là gì?",
+    "options": ["5 mg/kg/ngày", "10 mg/kg/ngày", "15 mg/kg/ngày", "20 mg/kg/ngày"]
   },
   {
-    "word": "Rửa rau quả",
-    "definition": "Biện pháp phòng ngừa Cyclospora cayetanensis là gì?",
-    "options": ["Ngủ mùng", "Rửa rau quả", "Tiêm vaccin", "Uống kháng sinh"]
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào có thể sống từ 6-16 năm trong cơ thể người?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây heo"]
   },
   {
-    "word": "Thai nhi dị tật",
-    "definition": "Toxoplasma gondii gây nguy hiểm gì cho thai nhi?",
-    "options": ["Sốt rét", "Thai nhi dị tật", "Tiêu chảy", "Viêm phổi"]
+    "word": "Sán lá ruột",
+    "definition": "Loài sán nào gây chậm phát triển ở trẻ em khi nhiễm nặng?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
   },
   {
-    "word": "IgM",
-    "definition": "Kháng thể nào dùng để chẩn đoán nhiễm Toxoplasma gondii cấp tính?",
-    "options": ["IgG", "IgM", "IgA", "IgE"]
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào gây bệnh gạo ở cơ và da?",
+    "options": ["Sán lá gan lớn", "Sán lá ruột", "Sán dây heo", "Sán lá phổi"]
   },
   {
-    "word": "Viêm cơ",
-    "definition": "Sarcocystis spp. gây bệnh gì khi nhiễm qua thịt bò sống?",
-    "options": ["Viêm gan", "Viêm cơ", "Sốt rét", "Tiêu chảy"]
+    "word": "Sán lá gan nhỏ",
+    "definition": "Loài sán nào không gây phản ứng dữ dội ở người do là ký chủ thích hợp?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
   },
   {
-    "word": "Dịch não tủy",
-    "definition": "Naegleria fowleri được chẩn đoán bằng cách soi mẫu gì?",
-    "options": ["Máu", "Dịch não tủy", "Phân", "Nước tiểu"]
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào có triệu chứng dễ nhầm với lao phổi?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây heo"]
   },
   {
-    "word": "Viêm não mãn tính",
-    "definition": "Acanthamoeba gây bệnh gì ngoài viêm giác mạc?",
-    "options": ["Sốt rét", "Viêm não mãn tính", "Tiêu chảy", "Viêm gan"]
+    "word": "Siêu âm",
+    "definition": "Phương pháp nào hỗ trợ chẩn đoán sán lá gan nhỏ khi nhiễm ít?",
+    "options": ["Xét nghiệm máu", "Siêu âm", "Chụp X-quang", "Sinh thiết gan"]
   },
   {
-    "word": "Giun chỉ",
-    "definition": "Muỗi Culex truyền bệnh gì?",
-    "options": ["Sốt rét", "Sốt xuất huyết", "Giun chỉ", "Dịch hạch"]
+    "word": "Triclabendazole",
+    "definition": "Thuốc nào được dùng thay thế Praziquantel để điều trị sán lá phổi?",
+    "options": ["Albendazol", "Mebendazol", "Triclabendazole", "Ivermectin"]
   },
   {
-    "word": "Sốt phát ban",
-    "definition": "Chí và rận truyền bệnh gì?",
-    "options": ["Sốt rét", "Sốt phát ban", "Sốt xuất huyết", "Dịch hạch"]
+    "word": "40 mg/kg",
+    "definition": "Liều dùng Praziquantel cho trẻ trên 2 tuổi điều trị sán lá ruột là gì?",
+    "options": ["20 mg/kg", "30 mg/kg", "40 mg/kg", "50 mg/kg"]
   },
   {
-    "word": "Nấm móng",
-    "definition": "Nấm sợi gây bệnh gì trên cơ thể?",
-    "options": ["Viêm phổi", "Nấm móng", "Sốt rét", "Tiêu chảy"]
+    "word": "Hút dịch tá tràng",
+    "definition": "Phương pháp nào được dùng để tìm trứng sán lá gan nhỏ khi nhiễm ít?",
+    "options": ["Xét nghiệm phân", "Hút dịch tá tràng", "Chụp CT", "Sinh thiết gan"]
   },
   {
-    "word": "Griseofulvin",
-    "definition": "Thuốc nào dùng để điều trị nấm ngoài da?",
-    "options": ["Metronidazole", "Griseofulvin", "Praziquantel", "Albendazol"]
+    "word": "Xét nghiệm miễn dịch",
+    "definition": "Phương pháp nào có tính đặc hiệu cao trong chẩn đoán sán lá gan nhỏ?",
+    "options": ["Xét nghiệm phân", "Xét nghiệm miễn dịch", "Chụp X-quang", "Siêu âm"]
   },
   {
-    "word": "Vaccin hấp thụ",
-    "definition": "Loại vaccin nào tăng hiệu lực miễn dịch nhờ chất bổ trợ?",
-    "options": ["Vaccin đơn giá", "Vaccin đa giá", "Vaccin hấp thụ", "Vaccin sống"]
+    "word": "Chụp CT",
+    "definition": "Phương pháp nào hỗ trợ chẩn đoán ấu trùng sán dây ở não?",
+    "options": ["Xét nghiệm phân", "Chụp CT", "Xét nghiệm máu", "Siêu âm"]
   },
   {
-    "word": "Thai phụ",
-    "definition": "Không nên dùng vaccin sống cho đối tượng nào ngoài người suy giảm miễn dịch?",
-    "options": ["Trẻ em", "Thai phụ", "Người già", "Người khỏe mạnh"]
+    "word": "Sinh thiết",
+    "definition": "Phương pháp nào xác định chính xác ấu trùng sán dây ở cơ?",
+    "options": ["Xét nghiệm phân", "Sinh thiết", "Chụp X-quang", "Siêu âm"]
   },
   {
-    "word": "Thương hàn",
-    "definition": "Vaccin nào phòng bệnh thương hàn?",
-    "options": ["Sởi", "Thương hàn", "Viêm gan B", "Bạch hầu"]
+    "word": "Sán lá gan lớn",
+    "definition": "Loài sán nào ký sinh chủ yếu ở gia súc nhưng đôi khi ở người?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán lá gan lớn"]
   },
   {
-    "word": "Phối hợp vaccin",
-    "definition": "Nguyên tắc sử dụng huyết thanh miễn dịch có thể bao gồm gì?",
-    "options": ["Dùng kháng sinh", "Phối hợp vaccin", "Tăng liều", "Ngừng theo dõi"]
+    "word": "Sán dây bò",
+    "definition": "Loài sán nào không có chu trình tự nhiễm?",
+    "options": ["Sán dây heo", "Sán dây bò", "Sán lá phổi", "Sán lá ruột"]
   },
   {
-    "word": "Chất khử trùng",
-    "definition": "Chất nào dùng để diệt khuẩn trên dụng cụ y tế?",
-    "options": ["Kháng sinh", "Chất sát trùng", "Chất khử trùng", "Vaccin"]
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào có chu trình tự nhiễm ở người?",
+    "options": ["Sán dây bò", "Sán dây heo", "Sán lá phổi", "Sán lá ruột"]
   },
   {
-    "word": "Clindamycin",
-    "definition": "Kháng sinh nào thuộc nhóm lincosamid?",
-    "options": ["Erythromycin", "Clindamycin", "Tetracyclin", "Ciprofloxacin"]
+    "word": "16 ngày",
+    "definition": "Thời gian phát triển của trùng đuôi sán lá phổi trong mùa hè là bao lâu?",
+    "options": ["10 ngày", "16 ngày", "30 ngày", "60 ngày"]
   },
   {
-    "word": "Trimethoprim",
-    "definition": "Kháng sinh nào ức chế chuyển hóa acid folic cùng với sulfonamid?",
-    "options": ["Tetracyclin", "Trimethoprim", "Macrolid", "Aminoglycosid"]
+    "word": "60 ngày",
+    "definition": "Thời gian phát triển của trùng đuôi sán lá phổi trong mùa đông là bao lâu?",
+    "options": ["16 ngày", "30 ngày", "60 ngày", "90 ngày"]
   },
   {
-    "word": "Tăng bơm thuốc",
-    "definition": "Cơ chế kháng thuốc nào liên quan đến đẩy kháng sinh ra ngoài tế bào?",
-    "options": ["Biến đổi đích", "Tăng bơm thuốc", "Tạo enzym", "Thay đổi màng"]
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào ký sinh ở nhiều cơ quan như da, phúc mạc, não?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
   },
   {
-    "word": "Chuyển nạp",
-    "definition": "Phương thức nào truyền gen kháng giữa các tế bào vi khuẩn?",
-    "options": ["Phân bào", "Chuyển nạp", "Phagocytosis", "Tái tổ hợp"]
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào gây rối loạn tâm thần khi ký sinh ở não?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây heo", "Sán lá ruột"]
   },
   {
-    "word": "Vệ sinh",
-    "definition": "Biện pháp kiểm soát kháng thuốc bao gồm gì ngoài dùng đúng thuốc?",
-    "options": ["Tăng liều", "Vệ sinh", "Ngừng thuốc", "Dùng phổ rộng"]
+    "word": "Sán lá ruột",
+    "definition": "Loài sán nào gây bạch cầu toan tính tăng cao khi nhiễm nặng?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
   },
   {
-    "word": "P. malariae",
-    "definition": "Loài Plasmodium nào có chu kỳ sốt 3 ngày 1 cơn?",
-    "options": ["P. falciparum", "P. vivax", "P. malariae", "P. ovale"]
+    "word": "Sán lá gan nhỏ",
+    "definition": "Loài sán nào liên quan đến tập quán ăn gỏi cá sông?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây heo"]
   },
   {
-    "word": "Truyền máu",
-    "definition": "Con đường lây truyền sốt rét ngoài muỗi Anopheles là gì?",
-    "options": ["Ăn uống", "Truyền máu", "Hít không khí", "Tiếp xúc da"]
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào liên quan đến tập quán ăn cua sống?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
   },
   {
-    "word": "Lách to",
-    "definition": "Triệu chứng nào thường gặp ở bệnh nhân sốt rét mạn tính?",
-    "options": ["Ngứa da", "Lách to", "Đau cơ", "Tiêu chảy"]
+    "word": "Sán lá gan lớn",
+    "definition": "Loài sán nào liên quan đến tập quán ăn rau sống?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá gan lớn", "Sán lá phổi"]
   },
   {
-    "word": "Sẩy thai",
-    "definition": "Sốt rét ở phụ nữ mang thai có thể gây biến chứng gì?",
-    "options": ["Đau đầu", "Sẩy thai", "Ngứa da", "Tiêu chảy"]
+    "word": "Sán dây bò",
+    "definition": "Loài sán nào liên quan đến tập quán ăn thịt bò tái?",
+    "options": ["Sán dây heo", "Sán dây bò", "Sán lá phổi", "Sán lá ruột"]
   },
   {
-    "word": "Phun hóa chất",
-    "definition": "Biện pháp nào dùng để kiểm soát muỗi Anopheles?",
-    "options": ["Uống nước sạch", "Phun hóa chất", "Ăn chín", "Tắm thường xuyên"]
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào liên quan đến tập quán ăn thịt heo sống?",
+    "options": ["Sán dây bò", "Sán dây heo", "Sán lá phổi", "Sán lá ruột"]
   },
   {
-    "word": "Viêm đại tràng",
-    "definition": "Entamoeba histolytica mạn tính gây bệnh gì?",
-    "options": ["Viêm phổi", "Viêm đại tràng", "Suy thận", "Sốt rét"]
+    "word": "Sán lá ruột",
+    "definition": "Loài sán nào hiếm gặp ở người nhưng phổ biến ở heo tại Việt Nam?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
   },
   {
-    "word": "Nước bẩn",
-    "definition": "Cryptosporidium lây truyền qua con đường nào?",
-    "options": ["Hít không khí", "Nước bẩn", "Tiếp xúc da", "Ăn thịt sống"]
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào có tỷ lệ mang ấu trùng cao ở cua nước ngọt?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây heo"]
   },
   {
-    "word": "Sốt nhẹ",
-    "definition": "Triệu chứng nào thường gặp ở bệnh nhân nhiễm Cyclospora cayetanensis?",
-    "options": ["Đau cơ", "Sốt nhẹ", "Ngứa da", "Động kinh"]
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào gây đau cơ khi ấu trùng ký sinh ở mô cơ?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây heo", "Sán lá ruột"]
   },
   {
-    "word": "Phân mèo",
-    "definition": "Toxoplasma gondii có thể lây qua gì ngoài thịt sống?",
-    "options": ["Nước bẩn", "Phân mèo", "Hít không khí", "Tiếp xúc da"]
+    "word": "Sán lá gan nhỏ",
+    "definition": "Loài sán nào gây suy kiệt dẫn đến tử vong khi nhiễm nặng?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây bò", "Sán lá ruột"]
   },
   {
-    "word": "Sinh thiết cơ",
-    "definition": "Phương pháp nào chẩn đoán Sarcocystis spp. qua nang sợi?",
-    "options": ["Soi phân", "Sinh thiết cơ", "Nhuộm Giemsa", "PCR"]
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào thường có 2 con đực và cái trong một nang sán?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây heo"]
   },
   {
-    "word": "Không bơi nước bẩn",
-    "definition": "Biện pháp phòng ngừa Naegleria fowleri là gì?",
-    "options": ["Ngủ mùng", "Không bơi nước bẩn", "Ăn chín", "Tiêm vaccin"]
+    "word": "Sán dây bò",
+    "definition": "Loài sán nào có đốt sán tự vỡ và rơi ra ngoài?",
+    "options": ["Sán dây heo", "Sán dây bò", "Sán lá phổi", "Sán lá ruột"]
   },
   {
-    "word": "Vệ sinh kính áp tròng",
-    "definition": "Biện pháp phòng ngừa Acanthamoeba liên quan đến kính áp tròng là gì?",
-    "options": ["Ngủ mùng", "Vệ sinh kính áp tròng", "Ăn chín", "Uống nước sạch"]
+    "word": "Sán lá gan lớn",
+    "definition": "Loài sán nào ký sinh ở ốc diếm hoặc ốc sên?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá gan lớn", "Sán lá phổi"]
   },
   {
-    "word": "Rickettsia",
-    "definition": "Chí và rận truyền vi khuẩn nào gây sốt phát ban?",
-    "options": ["Plasmodium", "Rickettsia", "Entamoeba", "Cryptosporidium"]
+    "word": "Sán lá ruột",
+    "definition": "Loài sán nào phụ thuộc vào môi trường có thực vật thủy sinh?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây heo"]
   },
   {
-    "word": "Nấm nội tạng",
-    "definition": "Loại nấm nào gây bệnh ở phổi, gan, não do suy giảm miễn dịch?",
-    "options": ["Nấm ngoài da", "Nấm nội tạng", "Nấm men", "Nấm sợi"]
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào lưu hành ở biên giới Việt-Trung?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
   },
   {
-    "word": "Hô hấp",
-    "definition": "Con đường lây nhiễm nấm y học có thể là gì?",
-    "options": ["Ăn uống", "Hô hấp", "Tiêm truyền", "Tiếp xúc da"]
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào gây nốt nổi ở mô dưới da?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây heo", "Sán lá ruột"]
   },
   {
-    "word": "Rubella",
-    "definition": "Vaccin nào phòng bệnh Rubella?",
-    "options": ["Viêm gan B", "Rubella", "Bạch hầu", "Cúm"]
+    "word": "Sán lá gan nhỏ",
+    "definition": "Loài sán nào được phát hiện tình cờ qua xét nghiệm phân?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây bò"]
   },
   {
-    "word": "Đau khớp",
-    "definition": "Phản ứng phụ tại chỗ của huyết thanh miễn dịch là gì?",
-    "options": ["Ngứa da", "Đau khớp", "Sốt cao", "Tiêu chảy"]
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào cần xét nghiệm đờm ở trẻ em để chẩn đoán?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây heo"]
   },
   {
-    "word": "Bacitracin",
-    "definition": "Kháng sinh nào ức chế tổng hợp vách tế bào ngoài β-lactam và vancomycin?",
-    "options": ["Tetracyclin", "Bacitracin", "Erythromycin", "Ciprofloxacin"]
+    "word": "Sán dây bò",
+    "definition": "Loài sán nào ít gây nguy hiểm đến tính mạng?",
+    "options": ["Sán dây heo", "Sán dây bò", "Sán lá phổi", "Sán lá ruột"]
   },
   {
-    "word": "Azithromycin",
-    "definition": "Kháng sinh nào thuộc nhóm macrolid?",
-    "options": ["Tetracyclin", "Azithromycin", "Gentamycin", "Levofloxacin"]
+    "word": "Sán lá gan lớn",
+    "definition": "Loài sán nào thoát nang ở tá tràng sau khi người ăn phải?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá gan lớn", "Sán lá phổi"]
   },
   {
-    "word": "Thay đổi màng",
-    "definition": "Cơ chế kháng thuốc nào liên quan đến giảm tính thấm của vi khuẩn?",
-    "options": ["Biến đổi đích", "Thay đổi màng", "Tạo enzym", "Tăng bơm thuốc"]
+    "word": "Sán lá ruột",
+    "definition": "Loài sán nào gây sụt cân và mệt mỏi khi nhiễm vài trăm con?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
   },
   {
-    "word": "Dị ứng",
-    "definition": "Hậu quả nào của lạm dụng kháng sinh liên quan đến phản ứng miễn dịch?",
-    "options": ["Tăng sức đề kháng", "Dị ứng", "Giảm sốt", "Tăng miễn dịch"]
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào gây tổn thương phổi khi có nhiều nang sán?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây heo"]
   },
   {
-    "word": "Thể tư dưỡng",
-    "definition": "Thể nào của Plasmodium gây bệnh chính trong cơ thể người?",
-    "options": ["Thể giao bào", "Thể tư dưỡng", "Thể phân liệt", "Thể nang"]
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào có ấu trùng sống lâu nhất ở mắt?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây heo", "Sán lá ruột"]
   },
   {
-    "word": "Sắc tố đen",
-    "definition": "Plasmodium trên tiêu bản nhuộm Giemsa có sắc tố gì?",
-    "options": ["Sắc tố đỏ", "Sắc tố đen", "Sắc tố xanh", "Sắc tố tím"]
+    "word": "Sán lá gan nhỏ",
+    "definition": "Loài sán nào liên quan đến tập quán ăn cá chép sống?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
   },
   {
-    "word": "Co giật",
-    "definition": "Triệu chứng nào thường gặp ở sốt rét ác tính thể não?",
-    "options": ["Tiêu chảy", "Co giật", "Ngứa da", "Đau cơ"]
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào có triệu chứng sốt và ho vào sáng sớm?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây heo"]
   },
   {
-    "word": "Soi phân",
-    "definition": "Phương pháp nào dùng để chẩn đoán Entamoeba histolytica qua phân?",
-    "options": ["Nhuộm Giemsa", "Soi phân", "PCR", "Sinh thiết"]
+    "word": "Sán dây bò",
+    "definition": "Loài sán nào có chiều dài lớn hơn sán dây heo?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây bò", "Sán lá ruột"]
   },
   {
-    "word": "Tiêu chảy nước",
-    "definition": "Triệu chứng chính của nhiễm Cryptosporidium là gì?",
-    "options": ["Sốt cao", "Tiêu chảy nước", "Ngứa da", "Đau cơ"]
+    "word": "Sán lá gan lớn",
+    "definition": "Loài sán nào có trứng chưa phôi khi ra ngoài môi trường?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá gan lớn", "Sán lá phổi"]
   },
   {
-    "word": "Nhuộm acid-fast",
-    "definition": "Phương pháp nào dùng để chẩn đoán Cyclospora cayetanensis qua phân?",
-    "options": ["Nhuộm Giemsa", "Nhuộm acid-fast", "Nhuộm Gram", "Soi phân"]
+    "word": "Sán lá ruột",
+    "definition": "Loài sán nào phổ biến ở các nước Đông Á và Trung Á?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây heo"]
   },
   {
-    "word": "Truyền mẹ-con",
-    "definition": "Con đường lây nhiễm Toxoplasma gondii nào liên quan đến thai nhi?",
-    "options": ["Ăn thịt sống", "Truyền mẹ-con", "Hít không khí", "Tiếp xúc da"]
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào có trứng theo đờm ra ngoài môi trường?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây bò"]
   },
   {
-    "word": "Không rửa mũi",
-    "definition": "Biện pháp phòng ngừa Naegleria fowleri bao gồm gì?",
-    "options": ["Ngủ mùng", "Không rửa mũi", "Ăn chín", "Tiêm vaccin"]
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào có đốt sán già rụng theo phân?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây heo", "Sán lá ruột"]
   },
   {
-    "word": "Bệnh giòi",
-    "definition": "Ruồi có thể gây bệnh gì khi tiếp xúc với thức ăn?",
-    "options": ["Sốt rét", "Bệnh giòi", "Sốt xuất huyết", "Dịch hạch"]
+    "word": "Sán lá gan nhỏ",
+    "definition": "Loài sán nào có thể tìm trứng bằng xét nghiệm dịch tá tràng?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây bò"]
   },
   {
-    "word": "Vệ sinh da",
-    "definition": "Biện pháp phòng ngừa bệnh nấm ngoài da là gì?",
-    "options": ["Uống nước sạch", "Vệ sinh da", "Ngủ mùng", "Tiêm vaccin"]
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào cần chụp X-quang phổi để hỗ trợ chẩn đoán?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây heo"]
+  },
+  {
+    "word": "Sán dây bò",
+    "definition": "Loài sán nào có đầu không có hàng móc?",
+    "options": ["Sán dây heo", "Sán dây bò", "Sán lá phổi", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán lá gan lớn",
+    "definition": "Loài sán nào phát triển thành sán trưởng thành trong ruột non?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá gan lớn", "Sán lá phổi"]
+  },
+  {
+    "word": "Sán lá ruột",
+    "definition": "Loài sán nào gây thiếu máu khi nhiễm nhẹ?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào tập trung trong nang sán ở phổi?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây heo"]
+  },
+  {
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào có ấu trùng ở cơ nhai của heo?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây heo", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán lá gan nhỏ",
+    "definition": "Loài sán nào phân bố ở Bắc Ninh, Bắc Giang?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây bò"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào có nguy cơ cao ở Lai Châu?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây heo"]
+  },
+  {
+    "word": "Sán dây bò",
+    "definition": "Loài sán nào có ấu trùng ở cơ tim của bò?",
+    "options": ["Sán dây heo", "Sán dây bò", "Sán lá phổi", "Sán lá ruột"]
+  },
+  {
+    "word": "Sán lá gan lớn",
+    "definition": "Loài sán nào có nang trùng trên thực vật thủy sinh?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá gan lớn", "Sán lá phổi"]
+  },
+  {
+    "word": "Sán lá ruột",
+    "definition": "Loài sán nào có siêu âm gan bình thường khi chẩn đoán?",
+    "options": ["Sán lá gan nhỏ", "Sán lá ruột", "Sán lá phổi", "Sán dây bò"]
+  },
+  {
+    "word": "Sán lá phổi",
+    "definition": "Loài sán nào cần xét nghiệm kháng thể trong huyết thanh?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán lá ruột", "Sán dây heo"]
+  },
+  {
+    "word": "Sán dây heo",
+    "definition": "Loài sán nào có ấu trùng ở gan và phổi?",
+    "options": ["Sán lá gan nhỏ", "Sán lá phổi", "Sán dây heo", "Sán lá ruột"]
   }
 ]
