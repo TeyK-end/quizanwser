@@ -1,8 +1,737 @@
 [
-
   {
-    "word": "Quản lý môi trường, sinh học, di truyền học",
-    "definition": " lồng ghép trong kiểm soát ĐVCK bao gồm những gì?",
-    "options": ["Quản lý môi trường, sinh học, di truyền học", "Phun thuốc, giặt giũ, bẫy đèn", "Thả cá, ngủ mùng, lai ghép", "Dùng hóa chất, bẫy đẻ, vô sinh con cái"]
+    "word": "Kích thích miễn dịch đặc hiệu",
+    "definition": "Vaccin là chế phẩm làm gì với cơ thể?",
+    "options": ["Gây bệnh nhẹ", "Kích thích miễn dịch đặc hiệu", "Tiêu diệt vi khuẩn", "Tăng cường kháng thể"]
+  },
+  {
+    "word": "Sống giảm độc lực",
+    "definition": "Loại vaccin nào có khả năng tăng sinh giống nhiễm tự nhiên?",
+    "options": ["Vaccin chết", "Vaccin giải độc tố", "Sống giảm độc lực", "Vaccin tái tổ hợp"]
+  },
+  {
+    "word": "BCG",
+    "definition": "Ví dụ nào là vaccin sống giảm độc lực?",
+    "options": ["Viêm gan B", "BCG", "Bại liệt Salk", "Uốn ván"]
+  },
+  {
+    "word": "Vaccin chết",
+    "definition": "Loại vaccin nào an toàn hơn nhưng miễn dịch yếu hơn?",
+    "options": ["Sống giảm độc lực", "Vaccin chết", "Vaccin giải độc tố", "Vaccin tái tổ hợp"]
+  },
+  {
+    "word": "Dại",
+    "definition": "Ví dụ nào là vaccin chết?",
+    "options": ["Sởi", "Rubella", "Dại", "BCG"]
+  },
+  {
+    "word": "Uốn ván",
+    "definition": "Vaccin giải độc tố được chế tạo từ độc tố của bệnh nào?",
+    "options": ["Sởi", "Uốn ván", "Viêm gan B", "Cúm"]
+  },
+  {
+    "word": "Viêm gan B",
+    "definition": "Vaccin tái tổ hợp được sản xuất bằng kỹ thuật gen cho bệnh nào?",
+    "options": ["Bạch hầu", "Viêm gan B", "Ho gà", "Lao"]
+  },
+  {
+    "word": "An toàn",
+    "definition": "Tiêu chuẩn nào là quan trọng nhất của vaccin?",
+    "options": ["Giá rẻ", "An toàn", "Dễ sản xuất", "Hiệu quả ngắn hạn"]
+  },
+  {
+    "word": "Đúng đối tượng",
+    "definition": "Nguyên tắc sử dụng vaccin bao gồm điều gì?",
+    "options": ["Dùng cho mọi người", "Đúng đối tượng", "Không cần bảo quản", "Tiêm nhiều lần cùng lúc"]
+  },
+  {
+    "word": "Tiêm bắp",
+    "definition": "Phương pháp dùng vaccin bao gồm cách nào?",
+    "options": ["Hít", "Tiêm bắp", "Bôi ngoài da", "Uống qua mũi"]
+  },
+  {
+    "word": "Sốc phản vệ",
+    "definition": "Phản ứng phụ hiếm gặp của vaccin là gì?",
+    "options": ["Sưng đỏ", "Sốt nhẹ", "Sốc phản vệ", "Đau cơ"]
+  },
+  {
+    "word": "Đáp ứng miễn dịch",
+    "definition": "Đánh giá kết quả tiêm chủng dựa vào yếu tố nào?",
+    "options": ["Số lượng tiêm", "Đáp ứng miễn dịch", "Tác dụng phụ", "Giá thành"]
+  },
+  {
+    "word": "Suy giảm miễn dịch",
+    "definition": "Không nên dùng vaccin sống cho đối tượng nào?",
+    "options": ["Trẻ sơ sinh", "Người khỏe mạnh", "Suy giảm miễn dịch", "Người già"]
+  },
+  {
+    "word": "2–8°C",
+    "definition": "Nhiệt độ bảo quản vaccin là bao nhiêu?",
+    "options": ["0–2°C", "2–8°C", "8–12°C", "12–15°C"]
+  },
+  {
+    "word": "Lao",
+    "definition": "Vaccin BCG phòng bệnh gì?",
+    "options": ["Sởi", "Lao", "Viêm gan B", "Bạch hầu"]
+  },
+  {
+    "word": "Huyết thanh miễn dịch",
+    "definition": "Chế phẩm chứa kháng thể có sẵn được gọi là gì?",
+    "options": ["Vaccin", "Huyết thanh miễn dịch", "Kháng sinh", "Thuốc kháng virus"]
+  },
+  {
+    "word": "Ngựa",
+    "definition": "Huyết thanh miễn dịch có thể được lấy từ nguồn nào?",
+    "options": ["Chó", "Ngựa", "Mèo", "Gà"]
+  },
+  {
+    "word": "Phản ứng phụ",
+    "definition": "Khi sử dụng huyết thanh miễn dịch, cần theo dõi điều gì?",
+    "options": ["Huyết áp", "Phản ứng phụ", "Nhịp tim", "Nhiệt độ"]
+  },
+  {
+    "word": "Viêm cơ tim",
+    "definition": "Phản ứng phụ toàn thân của huyết thanh miễn dịch có thể là gì?",
+    "options": ["Ngứa da", "Viêm cơ tim", "Đau đầu", "Tiêu chảy"]
+  },
+  {
+    "word": "Kháng sinh",
+    "definition": "Chất có khả năng ức chế hoặc tiêu diệt vi khuẩn được gọi là gì?",
+    "options": ["Vaccin", "Huyết thanh", "Kháng sinh", "Kháng virus"]
+  },
+  {
+    "word": "Chất sát trùng",
+    "definition": "Chất nào dùng ngoài da và phá hủy vi khuẩn nhưng độc cho tế bào?",
+    "options": ["Kháng sinh", "Chất sát trùng", "Chất khử trùng", "Vaccin"]
+  },
+  {
+    "word": "Penicillin",
+    "definition": "Kháng sinh nào thuộc nhóm β-lactam?",
+    "options": ["Tetracyclin", "Penicillin", "Erythromycin", "Ciprofloxacin"]
+  },
+  {
+    "word": "Vách tế bào",
+    "definition": "Nhóm β-lactam ức chế tổng hợp cấu trúc nào của vi khuẩn?",
+    "options": ["Màng tế bào", "Vách tế bào", "Ribosom", "DNA"]
+  },
+  {
+    "word": "Polymyxin",
+    "definition": "Kháng sinh nào ức chế chức năng màng vi khuẩn?",
+    "options": ["Penicillin", "Polymyxin", "Tetracyclin", "Ciprofloxacin"]
+  },
+  {
+    "word": "Tetracyclin",
+    "definition": "Kháng sinh nào ngăn cản tRNA gắn vào ribosom 30s?",
+    "options": ["Erythromycin", "Tetracyclin", "Gentamycin", "Levofloxacin"]
+  },
+  {
+    "word": "Macrolid",
+    "definition": "Nhóm kháng sinh nào ức chế dịch chuyển ribosom 50s?",
+    "options": ["Aminoglycosid", "Macrolid", "Tetracyclin", "Quinolon"]
+  },
+  {
+    "word": "Ciprofloxacin",
+    "definition": "Kháng sinh nào ức chế topoisomerase của vi khuẩn?",
+    "options": ["Tetracyclin", "Ciprofloxacin", "Erythromycin", "Penicillin"]
+  },
+  {
+    "word": "Sulfonamid",
+    "definition": "Kháng sinh nào ức chế chuyển hóa acid folic?",
+    "options": ["Tetracyclin", "Sulfonamid", "Macrolid", "Aminoglycosid"]
+  },
+  {
+    "word": "β-lactamase",
+    "definition": "Vi khuẩn có thể tạo enzym nào để phá hủy kháng sinh?",
+    "options": ["Lipase", "β-lactamase", "Amylase", "Protease"]
+  },
+  {
+    "word": "Plasmid",
+    "definition": "Gen kháng thuốc thường được truyền qua cấu trúc nào?",
+    "options": ["Nhiễm sắc thể", "Plasmid", "Ribosom", "Màng tế bào"]
+  },
+  {
+    "word": "Giao phối",
+    "definition": "Cách lan truyền gen kháng giữa các tế bào vi khuẩn bao gồm phương thức nào?",
+    "options": ["Phân bào", "Giao phối", "Phagocytosis", "Tái tổ hợp"]
+  },
+  {
+    "word": "Kháng sinh phổ hẹp",
+    "definition": "Để kiểm soát kháng thuốc, nên ưu tiên loại kháng sinh nào?",
+    "options": ["Kháng sinh phổ rộng", "Kháng sinh phổ hẹp", "Kháng sinh tổng hợp", "Kháng sinh tự nhiên"]
+  },
+  {
+    "word": "Mất cân bằng hệ vi sinh",
+    "definition": "Hậu quả của lạm dụng kháng sinh là gì?",
+    "options": ["Tăng miễn dịch", "Mất cân bằng hệ vi sinh", "Giảm sốt", "Tăng sức đề kháng"]
+  },
+  {
+    "word": "Plasmodium",
+    "definition": "Ký sinh trùng gây sốt rét thuộc chi nào?",
+    "options": ["Entamoeba", "Plasmodium", "Cryptosporidium", "Toxoplasma"]
+  },
+  {
+    "word": "P. falciparum",
+    "definition": "Loài Plasmodium nào gây sốt rét nặng nhất ở Việt Nam?",
+    "options": ["P. vivax", "P. malariae", "P. falciparum", "P. ovale"]
+  },
+  {
+    "word": "Muỗi Anopheles",
+    "definition": "Ký chủ trung gian của Plasmodium là gì?",
+    "options": ["Muỗi Aedes", "Muỗi Anopheles", "Ruồi", "Bọ chét"]
+  },
+  {
+    "word": "Sinh sản vô tính",
+    "definition": "Quá trình liệt sinh trong cơ thể người của Plasmodium là gì?",
+    "options": ["Sinh sản hữu tính", "Sinh sản vô tính", "Phân bào", "Giao phối"]
+  },
+  {
+    "word": "48h",
+    "definition": "Chu kỳ trong hồng cầu của P. vivax là bao lâu?",
+    "options": ["24h", "48h", "72h", "36h"]
+  },
+  {
+    "word": "Rét run",
+    "definition": "Giai đoạn đầu của cơn sốt rét thường là gì?",
+    "options": ["Sốt nóng", "Rét run", "Vã mồ hôi", "Đau cơ"]
+  },
+  {
+    "word": "Hàng ngày",
+    "definition": "Cơn sốt đặc trưng của P. falciparum xảy ra như thế nào?",
+    "options": ["Cách nhật", "Hàng ngày", "3 ngày 1 cơn", "Không đều"]
+  },
+  {
+    "word": "Thể não",
+    "definition": "Sốt rét ác tính thể nào hay gặp và tử vong cao?",
+    "options": ["Thể gan", "Thể não", "Thể thận", "Thể ruột"]
+  },
+  {
+    "word": "Nhuộm Giemsa",
+    "definition": "Phương pháp nào dùng để quan sát Plasmodium trên tiêu bản?",
+    "options": ["Nhuộm Ziehl-Neelsen", "Nhuộm Giemsa", "Nhuộm Gram", "Nhuộm acid-fast"]
+  },
+  {
+    "word": "Diệt muỗi",
+    "definition": "Biện pháp phòng chống sốt rét bao gồm gì?",
+    "options": ["Uống nước sôi", "Diệt muỗi", "Tiêm kháng sinh", "Ăn chín"]
+  },
+  {
+    "word": "Entamoeba histolytica",
+    "definition": "Ký sinh trùng gây bệnh lỵ amip là gì?",
+    "options": ["Plasmodium", "Entamoeba histolytica", "Toxoplasma", "Cryptosporidium"]
+  },
+  {
+    "word": "Bào nang",
+    "definition": "Thể nào của Entamoeba histolytica gây lây nhiễm qua phân?",
+    "options": ["Thể hoạt động", "Bào nang", "Thể giao bào", "Thể phân liệt"]
+  },
+  {
+    "word": "Metronidazole",
+    "definition": "Thuốc nào dùng để điều trị lỵ amip?",
+    "options": ["Praziquantel", "Metronidazole", "Albendazol", "Ivermectin"]
+  },
+  {
+    "word": "Cryptosporidium",
+    "definition": "Ký sinh trùng nào gây tiêu chảy dai dẳng ở người suy giảm miễn dịch?",
+    "options": ["Entamoeba", "Cryptosporidium", "Toxoplasma", "Plasmodium"]
+  },
+  {
+    "word": "Ziehl-Neelsen",
+    "definition": "Phương pháp nhuộm nào dùng để chẩn đoán Cryptosporidium?",
+    "options": ["Giemsa", "Ziehl-Neelsen", "Gram", "Acid-fast"]
+  },
+  {
+    "word": "Isospora belli",
+    "definition": "Ký sinh trùng nào gây tiêu chảy nặng ở bệnh nhân HIV?",
+    "options": ["Cryptosporidium", "Isospora belli", "Cyclospora", "Toxoplasma"]
+  },
+  {
+    "word": "TMP-SMX",
+    "definition": "Thuốc nào dùng để điều trị Isospora belli?",
+    "options": ["Metronidazole", "TMP-SMX", "Praziquantel", "Albendazol"]
+  },
+  {
+    "word": "Cyclospora cayetanensis",
+    "definition": "Ký sinh trùng nào gây tiêu chảy từng đợt qua thức ăn bẩn?",
+    "options": ["Isospora belli", "Cyclospora cayetanensis", "Entamoeba", "Plasmodium"]
+  },
+  {
+    "word": "PCR",
+    "definition": "Phương pháp nào dùng để chẩn đoán Cyclospora cayetanensis?",
+    "options": ["Nhuộm Giemsa", "PCR", "Nhuộm Gram", "Soi phân"]
+  },
+  {
+    "word": "Toxoplasma gondii",
+    "definition": "Ký sinh trùng nào có ký chủ chính là mèo?",
+    "options": ["Plasmodium", "Entamoeba", "Toxoplasma gondii", "Cryptosporidium"]
+  },
+  {
+    "word": "Ăn thịt sống",
+    "definition": "Con đường lây nhiễm Toxoplasma gondii là gì?",
+    "options": ["Uống nước bẩn", "Ăn thịt sống", "Hít không khí", "Tiếp xúc da"]
+  },
+  {
+    "word": "Sarcocystis spp.",
+    "definition": "Ký sinh trùng nào lây qua ăn thịt bò sống?",
+    "options": ["Toxoplasma", "Sarcocystis spp.", "Cyclospora", "Entamoeba"]
+  },
+  {
+    "word": "Naegleria fowleri",
+    "definition": "Ký sinh trùng nào gây viêm não màng não cấp tính qua nước bẩn vào mũi?",
+    "options": ["Acanthamoeba", "Naegleria fowleri", "Toxoplasma", "Plasmodium"]
+  },
+  {
+    "word": "Acanthamoeba",
+    "definition": "Ký sinh trùng nào gây viêm giác mạc liên quan đến kính áp tròng?",
+    "options": ["Naegleria fowleri", "Acanthamoeba", "Entamoeba", "Cryptosporidium"]
+  },
+  {
+    "word": "Muỗi Aedes",
+    "definition": "Loài muỗi nào truyền bệnh sốt xuất huyết?",
+    "options": ["Muỗi Anopheles", "Muỗi Aedes", "Muỗi Culex", "Muỗi Mansonia"]
+  },
+  {
+    "word": "Dịch hạch",
+    "definition": "Bọ chét truyền bệnh gì?",
+    "options": ["Sốt rét", "Dịch hạch", "Sốt xuất huyết", "Giun chỉ"]
+  },
+  {
+    "word": "Candida",
+    "definition": "Loại nấm men nào gây viêm da và nấm miệng?",
+    "options": ["Aspergillus", "Candida", "Trichophyton", "Cryptococcus"]
+  },
+  {
+    "word": "Nấm sợi",
+    "definition": "Loại nấm nào gây bệnh hắc lào và lang ben?",
+    "options": ["Nấm men", "Nấm sợi", "Nấm nhầy", "Nấm túi"]
+  },
+  {
+    "word": "Ketoconazole",
+    "definition": "Thuốc nào dùng để điều trị bệnh nấm?",
+    "options": ["Praziquantel", "Ketoconazole", "Metronidazole", "Albendazol"]
+  },
+  {
+    "word": "Vaccin đa giá",
+    "definition": "Loại vaccin nào phòng được nhiều bệnh cùng lúc?",
+    "options": ["Vaccin đơn giá", "Vaccin đa giá", "Vaccin sống", "Vaccin chết"]
+  },
+  {
+    "word": "Hiệu lực",
+    "definition": "Tiêu chuẩn nào của vaccin đảm bảo khả năng bảo vệ cơ thể?",
+    "options": ["Dễ sử dụng", "Hiệu lực", "Giá rẻ", "Dễ sản xuất"]
+  },
+  {
+    "word": "Uống",
+    "definition": "Phương pháp dùng vaccin nào không cần tiêm?",
+    "options": ["Tiêm trong da", "Uống", "Tiêm bắp", "Tiêm dưới da"]
+  },
+  {
+    "word": "Sốt cao",
+    "definition": "Chống chỉ định tiêm vaccin khi người bệnh đang bị gì?",
+    "options": ["Đau đầu", "Sốt cao", "Ngứa da", "Mệt mỏi"]
+  },
+  {
+    "word": "Viêm gan A",
+    "definition": "Vaccin chết nào phòng bệnh viêm gan A?",
+    "options": ["Sởi", "Viêm gan B", "Viêm gan A", "Rubella"]
+  },
+  {
+    "word": "Hib",
+    "definition": "Vaccin chiết tách/tinh chế phòng bệnh nào?",
+    "options": ["Sởi", "Hib", "Cúm", "Bạch hầu"]
+  },
+  {
+    "word": "Dịch tễ học",
+    "definition": "Đánh giá hiệu quả tiêm chủng dựa vào yếu tố nào ngoài đáp ứng miễn dịch?",
+    "options": ["Dịch tễ học", "Phản ứng phụ", "Liều lượng", "Giá thành"]
+  },
+  {
+    "word": "Đúng dung môi",
+    "definition": "Bảo quản vaccin cần đảm bảo điều gì?",
+    "options": ["Nhiệt độ cao", "Đúng dung môi", "Ánh sáng mạnh", "Thời gian ngắn"]
+  },
+  {
+    "word": "Ho gà",
+    "definition": "Vaccin nào phòng bệnh ho gà?",
+    "options": ["Sởi", "Ho gà", "Viêm não Nhật Bản", "Cúm"]
+  },
+  {
+    "word": "Miễn dịch thụ động",
+    "definition": "Huyết thanh miễn dịch cung cấp loại miễn dịch nào?",
+    "options": ["Miễn dịch chủ động", "Miễn dịch thụ động", "Miễn dịch tự nhiên", "Miễn dịch bẩm sinh"]
+  },
+  {
+    "word": "Viêm cầu thận",
+    "definition": "Phản ứng phụ nào của huyết thanh miễn dịch liên quan đến thận?",
+    "options": ["Đau cơ", "Viêm cầu thận", "Ngứa da", "Sốt nhẹ"]
+  },
+  {
+    "word": "Vancomycin",
+    "definition": "Kháng sinh nào ức chế tổng hợp vách tế bào ngoài nhóm β-lactam?",
+    "options": ["Tetracyclin", "Vancomycin", "Erythromycin", "Ciprofloxacin"]
+  },
+  {
+    "word": "Daptomycin",
+    "definition": "Kháng sinh nào thuộc nhóm lipopeptid ức chế màng tế bào?",
+    "options": ["Polymyxin", "Daptomycin", "Gentamycin", "Levofloxacin"]
+  },
+  {
+    "word": "Aminoglycosid",
+    "definition": "Nhóm kháng sinh nào gây sai lệch mRNA trên ribosom 30s?",
+    "options": ["Macrolid", "Aminoglycosid", "Tetracyclin", "Quinolon"]
+  },
+  {
+    "word": "Chloramphenicol",
+    "definition": "Kháng sinh nào ức chế gắn amino acid trên ribosom 50s?",
+    "options": ["Erythromycin", "Chloramphenicol", "Tetracyclin", "Ciprofloxacin"]
+  },
+  {
+    "word": "Rifamycin",
+    "definition": "Kháng sinh nào ức chế tổng hợp RNA của vi khuẩn?",
+    "options": ["Tetracyclin", "Rifamycin", "Penicillin", "Sulfonamid"]
+  },
+  {
+    "word": "Biến đổi đích",
+    "definition": "Cơ chế kháng thuốc nào liên quan đến thay đổi vị trí gắn thuốc?",
+    "options": ["Tăng bơm thuốc", "Biến đổi đích", "Tạo enzym", "Thay đổi màng"]
+  },
+  {
+    "word": "Đột biến",
+    "definition": "Nguồn gốc di truyền của kháng thuốc bao gồm gì?",
+    "options": ["Tác động môi trường", "Đột biến", "Phân bào", "Tái tổ hợp"]
+  },
+  {
+    "word": "Đúng liều",
+    "definition": "Biện pháp kiểm soát kháng thuốc bao gồm gì?",
+    "options": ["Dùng nhiều kháng sinh", "Đúng liều", "Ngừng giữa chừng", "Tăng liều"]
+  },
+  {
+    "word": "Nhiễm độc",
+    "definition": "Lạm dụng kháng sinh có thể gây hậu quả gì?",
+    "options": ["Tăng miễn dịch", "Nhiễm độc", "Giảm sốt", "Tăng sức đề kháng"]
+  },
+  {
+    "word": "P. ovale",
+    "definition": "Loài Plasmodium nào hiếm gặp nhất ở Việt Nam?",
+    "options": ["P. falciparum", "P. vivax", "P. malariae", "P. ovale"]
+  },
+  {
+    "word": "Bào tử tạo",
+    "definition": "Quá trình sinh sản hữu tính muỗi trong Anopheles gọi là gì?",
+    "options": ["Liệt tạo", "Bào tử tạo", "Phân liệt", "Giao bào"]
+  },
+  {
+    "word": "72h",
+    "definition": "Chu kỳ trong hồng cầu của P. malariae là bao lâu?",
+    "options": ["48h", "72h", "36h", "24h"]
+  },
+  {
+    "word": "Vã mồ hôi",
+    "definition": "Giai đoạn cuối của cơn sốt rét thường là gì?",
+    "options": ["Rét run", "Sốt nóng", "Vã mồ hôi", "Đau đầu"]
+  },
+  {
+    "word": "Cách nhật",
+    "definition": "Cơn sốt đặc trưng của P. vivax xảy ra như thế nào?",
+    "options": ["Hàng ngày", "Cách nhật", "3 ngày 1 cơn", "Không đều"]
+  },
+  {
+    "word": "Thiếu máu",
+    "definition": "Triệu chứng nào thường gặp ở trẻ em bị sốt rét?",
+    "options": ["Đau cơ", "Thiếu máu", "Ngứa da", "Tiêu chảy"]
+  },
+  {
+    "word": "Test nhanh",
+    "definition": "Phương pháp chẩn đoán sốt rét nào nhanh chóng và đơn giản?",
+    "options": ["Nhuộm Giemsa", "Test nhanh", "PCR", "Sinh thiết"]
+  },
+  {
+    "word": "Ngủ mùng",
+    "definition": "Biện pháp phòng chống sốt rét cá nhân là gì?",
+    "options": ["Uống kháng sinh", "Ngủ mùng", "Ăn chín", "Tắm nước sạch"]
+  },
+  {
+    "word": "Thể giao bào",
+    "definition": "Điều trị sốt rét cần tiêu diệt thể nào để ngừa tái phát?",
+    "options": ["Thể tư dưỡng", "Thể phân liệt", "Thể giao bào", "Thể nang"]
+  },
+  {
+    "word": "Lỵ amip",
+    "definition": "Entamoeba histolytica gây bệnh gì cấp tính?",
+    "options": ["Sốt rét", "Lỵ amip", "Tiêu chảy", "Viêm gan"]
+  },
+  {
+    "word": "Áp xe gan",
+    "definition": "Entamoeba histolytica có thể gây biến chứng gì ngoài ruột?",
+    "options": ["Viêm phổi", "Áp xe gan", "Suy thận", "Động kinh"]
+  },
+  {
+    "word": "ELISA",
+    "definition": "Phương pháp nào dùng để chẩn đoán Entamoeba histolytica qua huyết thanh?",
+    "options": ["PCR", "ELISA", "Nhuộm Giemsa", "Soi phân"]
+  },
+  {
+    "word": "Nước sạch",
+    "definition": "Biện pháp phòng ngừa Cryptosporidium là gì?",
+    "options": ["Ngủ mùng", "Nước sạch", "Tiêm vaccin", "Ăn chín"]
+  },
+  {
+    "word": "Hình bầu dục",
+    "definition": "Hình thể nang trứng của Isospora belli là gì?",
+    "options": ["Hình tròn", "Hình bầu dục", "Hình trụ", "Hình vuông"]
+  },
+  {
+    "word": "Rửa rau quả",
+    "definition": "Biện pháp phòng ngừa Cyclospora cayetanensis là gì?",
+    "options": ["Ngủ mùng", "Rửa rau quả", "Tiêm vaccin", "Uống kháng sinh"]
+  },
+  {
+    "word": "Thai nhi dị tật",
+    "definition": "Toxoplasma gondii gây nguy hiểm gì cho thai nhi?",
+    "options": ["Sốt rét", "Thai nhi dị tật", "Tiêu chảy", "Viêm phổi"]
+  },
+  {
+    "word": "IgM",
+    "definition": "Kháng thể nào dùng để chẩn đoán nhiễm Toxoplasma gondii cấp tính?",
+    "options": ["IgG", "IgM", "IgA", "IgE"]
+  },
+  {
+    "word": "Viêm cơ",
+    "definition": "Sarcocystis spp. gây bệnh gì khi nhiễm qua thịt bò sống?",
+    "options": ["Viêm gan", "Viêm cơ", "Sốt rét", "Tiêu chảy"]
+  },
+  {
+    "word": "Dịch não tủy",
+    "definition": "Naegleria fowleri được chẩn đoán bằng cách soi mẫu gì?",
+    "options": ["Máu", "Dịch não tủy", "Phân", "Nước tiểu"]
+  },
+  {
+    "word": "Viêm não mãn tính",
+    "definition": "Acanthamoeba gây bệnh gì ngoài viêm giác mạc?",
+    "options": ["Sốt rét", "Viêm não mãn tính", "Tiêu chảy", "Viêm gan"]
+  },
+  {
+    "word": "Giun chỉ",
+    "definition": "Muỗi Culex truyền bệnh gì?",
+    "options": ["Sốt rét", "Sốt xuất huyết", "Giun chỉ", "Dịch hạch"]
+  },
+  {
+    "word": "Sốt phát ban",
+    "definition": "Chí và rận truyền bệnh gì?",
+    "options": ["Sốt rét", "Sốt phát ban", "Sốt xuất huyết", "Dịch hạch"]
+  },
+  {
+    "word": "Nấm móng",
+    "definition": "Nấm sợi gây bệnh gì trên cơ thể?",
+    "options": ["Viêm phổi", "Nấm móng", "Sốt rét", "Tiêu chảy"]
+  },
+  {
+    "word": "Griseofulvin",
+    "definition": "Thuốc nào dùng để điều trị nấm ngoài da?",
+    "options": ["Metronidazole", "Griseofulvin", "Praziquantel", "Albendazol"]
+  },
+  {
+    "word": "Vaccin hấp thụ",
+    "definition": "Loại vaccin nào tăng hiệu lực miễn dịch nhờ chất bổ trợ?",
+    "options": ["Vaccin đơn giá", "Vaccin đa giá", "Vaccin hấp thụ", "Vaccin sống"]
+  },
+  {
+    "word": "Thai phụ",
+    "definition": "Không nên dùng vaccin sống cho đối tượng nào ngoài người suy giảm miễn dịch?",
+    "options": ["Trẻ em", "Thai phụ", "Người già", "Người khỏe mạnh"]
+  },
+  {
+    "word": "Thương hàn",
+    "definition": "Vaccin nào phòng bệnh thương hàn?",
+    "options": ["Sởi", "Thương hàn", "Viêm gan B", "Bạch hầu"]
+  },
+  {
+    "word": "Phối hợp vaccin",
+    "definition": "Nguyên tắc sử dụng huyết thanh miễn dịch có thể bao gồm gì?",
+    "options": ["Dùng kháng sinh", "Phối hợp vaccin", "Tăng liều", "Ngừng theo dõi"]
+  },
+  {
+    "word": "Chất khử trùng",
+    "definition": "Chất nào dùng để diệt khuẩn trên dụng cụ y tế?",
+    "options": ["Kháng sinh", "Chất sát trùng", "Chất khử trùng", "Vaccin"]
+  },
+  {
+    "word": "Clindamycin",
+    "definition": "Kháng sinh nào thuộc nhóm lincosamid?",
+    "options": ["Erythromycin", "Clindamycin", "Tetracyclin", "Ciprofloxacin"]
+  },
+  {
+    "word": "Trimethoprim",
+    "definition": "Kháng sinh nào ức chế chuyển hóa acid folic cùng với sulfonamid?",
+    "options": ["Tetracyclin", "Trimethoprim", "Macrolid", "Aminoglycosid"]
+  },
+  {
+    "word": "Tăng bơm thuốc",
+    "definition": "Cơ chế kháng thuốc nào liên quan đến đẩy kháng sinh ra ngoài tế bào?",
+    "options": ["Biến đổi đích", "Tăng bơm thuốc", "Tạo enzym", "Thay đổi màng"]
+  },
+  {
+    "word": "Chuyển nạp",
+    "definition": "Phương thức nào truyền gen kháng giữa các tế bào vi khuẩn?",
+    "options": ["Phân bào", "Chuyển nạp", "Phagocytosis", "Tái tổ hợp"]
+  },
+  {
+    "word": "Vệ sinh",
+    "definition": "Biện pháp kiểm soát kháng thuốc bao gồm gì ngoài dùng đúng thuốc?",
+    "options": ["Tăng liều", "Vệ sinh", "Ngừng thuốc", "Dùng phổ rộng"]
+  },
+  {
+    "word": "P. malariae",
+    "definition": "Loài Plasmodium nào có chu kỳ sốt 3 ngày 1 cơn?",
+    "options": ["P. falciparum", "P. vivax", "P. malariae", "P. ovale"]
+  },
+  {
+    "word": "Truyền máu",
+    "definition": "Con đường lây truyền sốt rét ngoài muỗi Anopheles là gì?",
+    "options": ["Ăn uống", "Truyền máu", "Hít không khí", "Tiếp xúc da"]
+  },
+  {
+    "word": "Lách to",
+    "definition": "Triệu chứng nào thường gặp ở bệnh nhân sốt rét mạn tính?",
+    "options": ["Ngứa da", "Lách to", "Đau cơ", "Tiêu chảy"]
+  },
+  {
+    "word": "Sẩy thai",
+    "definition": "Sốt rét ở phụ nữ mang thai có thể gây biến chứng gì?",
+    "options": ["Đau đầu", "Sẩy thai", "Ngứa da", "Tiêu chảy"]
+  },
+  {
+    "word": "Phun hóa chất",
+    "definition": "Biện pháp nào dùng để kiểm soát muỗi Anopheles?",
+    "options": ["Uống nước sạch", "Phun hóa chất", "Ăn chín", "Tắm thường xuyên"]
+  },
+  {
+    "word": "Viêm đại tràng",
+    "definition": "Entamoeba histolytica mạn tính gây bệnh gì?",
+    "options": ["Viêm phổi", "Viêm đại tràng", "Suy thận", "Sốt rét"]
+  },
+  {
+    "word": "Nước bẩn",
+    "definition": "Cryptosporidium lây truyền qua con đường nào?",
+    "options": ["Hít không khí", "Nước bẩn", "Tiếp xúc da", "Ăn thịt sống"]
+  },
+  {
+    "word": "Sốt nhẹ",
+    "definition": "Triệu chứng nào thường gặp ở bệnh nhân nhiễm Cyclospora cayetanensis?",
+    "options": ["Đau cơ", "Sốt nhẹ", "Ngứa da", "Động kinh"]
+  },
+  {
+    "word": "Phân mèo",
+    "definition": "Toxoplasma gondii có thể lây qua gì ngoài thịt sống?",
+    "options": ["Nước bẩn", "Phân mèo", "Hít không khí", "Tiếp xúc da"]
+  },
+  {
+    "word": "Sinh thiết cơ",
+    "definition": "Phương pháp nào chẩn đoán Sarcocystis spp. qua nang sợi?",
+    "options": ["Soi phân", "Sinh thiết cơ", "Nhuộm Giemsa", "PCR"]
+  },
+  {
+    "word": "Không bơi nước bẩn",
+    "definition": "Biện pháp phòng ngừa Naegleria fowleri là gì?",
+    "options": ["Ngủ mùng", "Không bơi nước bẩn", "Ăn chín", "Tiêm vaccin"]
+  },
+  {
+    "word": "Vệ sinh kính áp tròng",
+    "definition": "Biện pháp phòng ngừa Acanthamoeba liên quan đến kính áp tròng là gì?",
+    "options": ["Ngủ mùng", "Vệ sinh kính áp tròng", "Ăn chín", "Uống nước sạch"]
+  },
+  {
+    "word": "Rickettsia",
+    "definition": "Chí và rận truyền vi khuẩn nào gây sốt phát ban?",
+    "options": ["Plasmodium", "Rickettsia", "Entamoeba", "Cryptosporidium"]
+  },
+  {
+    "word": "Nấm nội tạng",
+    "definition": "Loại nấm nào gây bệnh ở phổi, gan, não do suy giảm miễn dịch?",
+    "options": ["Nấm ngoài da", "Nấm nội tạng", "Nấm men", "Nấm sợi"]
+  },
+  {
+    "word": "Hô hấp",
+    "definition": "Con đường lây nhiễm nấm y học có thể là gì?",
+    "options": ["Ăn uống", "Hô hấp", "Tiêm truyền", "Tiếp xúc da"]
+  },
+  {
+    "word": "Rubella",
+    "definition": "Vaccin nào phòng bệnh Rubella?",
+    "options": ["Viêm gan B", "Rubella", "Bạch hầu", "Cúm"]
+  },
+  {
+    "word": "Đau khớp",
+    "definition": "Phản ứng phụ tại chỗ của huyết thanh miễn dịch là gì?",
+    "options": ["Ngứa da", "Đau khớp", "Sốt cao", "Tiêu chảy"]
+  },
+  {
+    "word": "Bacitracin",
+    "definition": "Kháng sinh nào ức chế tổng hợp vách tế bào ngoài β-lactam và vancomycin?",
+    "options": ["Tetracyclin", "Bacitracin", "Erythromycin", "Ciprofloxacin"]
+  },
+  {
+    "word": "Azithromycin",
+    "definition": "Kháng sinh nào thuộc nhóm macrolid?",
+    "options": ["Tetracyclin", "Azithromycin", "Gentamycin", "Levofloxacin"]
+  },
+  {
+    "word": "Thay đổi màng",
+    "definition": "Cơ chế kháng thuốc nào liên quan đến giảm tính thấm của vi khuẩn?",
+    "options": ["Biến đổi đích", "Thay đổi màng", "Tạo enzym", "Tăng bơm thuốc"]
+  },
+  {
+    "word": "Dị ứng",
+    "definition": "Hậu quả nào của lạm dụng kháng sinh liên quan đến phản ứng miễn dịch?",
+    "options": ["Tăng sức đề kháng", "Dị ứng", "Giảm sốt", "Tăng miễn dịch"]
+  },
+  {
+    "word": "Thể tư dưỡng",
+    "definition": "Thể nào của Plasmodium gây bệnh chính trong cơ thể người?",
+    "options": ["Thể giao bào", "Thể tư dưỡng", "Thể phân liệt", "Thể nang"]
+  },
+  {
+    "word": "Sắc tố đen",
+    "definition": "Plasmodium trên tiêu bản nhuộm Giemsa có sắc tố gì?",
+    "options": ["Sắc tố đỏ", "Sắc tố đen", "Sắc tố xanh", "Sắc tố tím"]
+  },
+  {
+    "word": "Co giật",
+    "definition": "Triệu chứng nào thường gặp ở sốt rét ác tính thể não?",
+    "options": ["Tiêu chảy", "Co giật", "Ngứa da", "Đau cơ"]
+  },
+  {
+    "word": "Soi phân",
+    "definition": "Phương pháp nào dùng để chẩn đoán Entamoeba histolytica qua phân?",
+    "options": ["Nhuộm Giemsa", "Soi phân", "PCR", "Sinh thiết"]
+  },
+  {
+    "word": "Tiêu chảy nước",
+    "definition": "Triệu chứng chính của nhiễm Cryptosporidium là gì?",
+    "options": ["Sốt cao", "Tiêu chảy nước", "Ngứa da", "Đau cơ"]
+  },
+  {
+    "word": "Nhuộm acid-fast",
+    "definition": "Phương pháp nào dùng để chẩn đoán Cyclospora cayetanensis qua phân?",
+    "options": ["Nhuộm Giemsa", "Nhuộm acid-fast", "Nhuộm Gram", "Soi phân"]
+  },
+  {
+    "word": "Truyền mẹ-con",
+    "definition": "Con đường lây nhiễm Toxoplasma gondii nào liên quan đến thai nhi?",
+    "options": ["Ăn thịt sống", "Truyền mẹ-con", "Hít không khí", "Tiếp xúc da"]
+  },
+  {
+    "word": "Không rửa mũi",
+    "definition": "Biện pháp phòng ngừa Naegleria fowleri bao gồm gì?",
+    "options": ["Ngủ mùng", "Không rửa mũi", "Ăn chín", "Tiêm vaccin"]
+  },
+  {
+    "word": "Bệnh giòi",
+    "definition": "Ruồi có thể gây bệnh gì khi tiếp xúc với thức ăn?",
+    "options": ["Sốt rét", "Bệnh giòi", "Sốt xuất huyết", "Dịch hạch"]
+  },
+  {
+    "word": "Vệ sinh da",
+    "definition": "Biện pháp phòng ngừa bệnh nấm ngoài da là gì?",
+    "options": ["Uống nước sạch", "Vệ sinh da", "Ngủ mùng", "Tiêm vaccin"]
   }
 ]
